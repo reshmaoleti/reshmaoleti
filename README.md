@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/JXA0.gif)](https://github.com/reshmaoleti)
+[![MasterHead](https://thaniaanindillah.files.wordpress.com/2020/05/sarah-working-on-computer.gif)](https://github.com/reshmaoleti)
 
 # My Github Stats
 
