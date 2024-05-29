@@ -1,9 +1,11 @@
 # My GITHUB Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=reshmaoleti&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=reshmaoleti&theme=city_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reshmaoleti&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ---
+
+
 # My Tech Tools
 
 <div align="left">
@@ -65,4 +67,21 @@
 ---
 
 # Connect with me on
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/reshmaoleti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reshmaoleti) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@reshmaoleti) 
+---
+
+<div align="left">
+  <a href="https://www.facebook.com/reshmaoleti" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/reshmaoleti" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.medium.com/@reshmaoleti" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="47" height="35" alt="medium logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/reshmaoleti" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="47" height="35" alt="hackerrank logo"  />
+  </a>
+</div>
+
+###
