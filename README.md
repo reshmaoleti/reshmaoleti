@@ -1,13 +1,12 @@
 [![MasterHead](https://github.com/reshmaoleti/reshmaoleti/blob/main/github.gif?raw=true)](https://github.com/reshmaoleti)
 
 # My Github Stats
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reshmaoleti&layout=compact&theme=buefy" alt=reshmaoleti />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reshmaoleti&layout=compact&theme=swift" alt=reshmaoleti />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=reshmaoleti&show_icons=true&locale=en&theme=buefy" alt="reshmaoleti" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=reshmaoleti&show_icons=true&locale=en&theme=swift" alt="reshmaoleti" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=reshmaoleti&theme=buefy" alt="reshmaoleti" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=reshmaoleti&theme=swift" alt="reshmaoleti" /></p>
 
----
 
 
 # My Tech Tools
