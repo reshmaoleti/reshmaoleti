@@ -1,8 +1,7 @@
 [![MasterHead](https://github.com/reshmaoleti/reshmaoleti/blob/main/github.gif)](https://github.com/reshmaoleti)
 
-# My Github Stats
-
-<div> <a href="https://github.com/reshmaoleti" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+# My Github Stats 
+<div> <a href="https://github.com/reshmaoleti" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-github-170-1175028.png?f=webp" height="40" alt="GitHub" target="_blank"></a>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reshmaoleti&layout=compact&theme=ayu-light" alt=reshmaoleti />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=reshmaoleti&show_icons=true&locale=en&theme=ayu-light" alt="reshmaoleti" /></p>
