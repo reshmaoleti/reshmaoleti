@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/reshmaoleti/reshmaoleti/blob/main/github.gif?raw=true)](https://github.com/reshmaoleti)
+[![MasterHead]()](https://github.com/reshmaoleti)
 
 # My Github Stats
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reshmaoleti&layout=compact&theme=swift" alt=reshmaoleti />
