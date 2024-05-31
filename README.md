@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/reshmaoleti/reshmaoleti/blob/main/github.gif)](https://github.com/reshmaoleti)
+[![MasterHead](https://media.licdn.com/dms/image/C5112AQEhKtcgkzpqHw/article-cover_image-shrink_720_1280/0/1586961865819?e=1722470400&v=beta&t=kGqSd0b5iXP_9Uf7DsEswbcPcC5Z2OQ9McIUIplCrWc)](https://github.com/reshmaoleti)
 
 # My Github Stats 
 <div> <a href="https://github.com/reshmaoleti" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-github-170-1175028.png?f=webp" height="40" alt="GitHub" target="_blank"></a>
