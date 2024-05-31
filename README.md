@@ -5,7 +5,7 @@
 
 🏆Certified as : Google Associate Cloud Engineer, Azure DevOps Engineer Expert, AWS Solution Architect Associate, MuleSoft Developer & Aviatrix Multicloud Network Associate.
 
-📚 Currently Learning : Machine Learning techniques, Data Analytics 2024 Edition, PHP Advanced Level
+📚Currently Upskilling in : Machine Learning techniques, Data Analytics 2024 Edition, PHP Advanced Level
 
 [![MasterHead](https://media.licdn.com/dms/image/C5112AQEhKtcgkzpqHw/article-cover_image-shrink_720_1280/0/1586961865819?e=1722470400&v=beta&t=kGqSd0b5iXP_9Uf7DsEswbcPcC5Z2OQ9McIUIplCrWc)](https://github.com/reshmaoleti)
 
