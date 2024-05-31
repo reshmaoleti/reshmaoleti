@@ -3,7 +3,7 @@
 
 💡Skilled in leveraging Agile Project Management methodologies, Data Science Practices and Data Analytics through Visualization methods to deliver high-quality software solutions, while optimizing Digital Marketing strategies for enhanced business outcomes. 
 
-🏆Certified as: Google Associate Cloud Engineer, Azure DevOps Engineer Expert, AWS Solution Architect Associate, MuleSoft Developer & Aviatrix Multicloud Network Associate.
+🏆Certified as : Google Associate Cloud Engineer, Azure DevOps Engineer Expert, AWS Solution Architect Associate, MuleSoft Developer & Aviatrix Multicloud Network Associate.
 
 💼 Seeking collaborative opportunities to integrate technical and marketing expertise for driving innovation and business growth.
 
