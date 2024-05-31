@@ -1,3 +1,14 @@
+# Hello, I'm Reshma oleti
+🎓 BTech Graduate in Computer Science & Engineering from KL University and a versatile Software Engineer proficient in Full-stack Development, DevOps, UX Design & Cloud Computing, complemented by self-taught expertise in Digital Marketing. 
+
+💡Skilled in leveraging Agile Project Management methodologies, Data Science Practices and Data Analytics through Visualization methods to deliver high-quality software solutions, while optimizing Digital Marketing strategies for enhanced business outcomes. 
+
+🏆Certified as: Google Associate Cloud Engineer, Azure DevOps Engineer Expert, AWS Solution Architect Associate, MuleSoft Developer & Aviatrix Multicloud Network Associate.
+
+💼 Seeking collaborative opportunities to integrate technical and marketing expertise for driving innovation and business growth.
+
+🤝 Looking ahead to estabilish reliable connections and to explore more in technical & marketing realms.
+
 [![MasterHead](https://media.licdn.com/dms/image/C5112AQEhKtcgkzpqHw/article-cover_image-shrink_720_1280/0/1586961865819?e=1722470400&v=beta&t=kGqSd0b5iXP_9Uf7DsEswbcPcC5Z2OQ9McIUIplCrWc)](https://github.com/reshmaoleti)
 
 # My Github Stats 
