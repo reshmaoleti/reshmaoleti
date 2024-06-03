@@ -1,5 +1,5 @@
 # Hello, I'm Reshma oleti
-🎓 A BTech Graduate in Computer Science & Engineering from KL University and a versatile Software Engineer proficient in Full-stack Development, DevOps, UX Design & Cloud Computing, complemented by self-taught expertise in Digital Marketing. 
+🎓 A BTech Graduate in Computer Science & Engineering from KL University proficient in Full-stack Development, DevOps, UX Design & Cloud Computing, complemented by self-taught expertise in Digital Marketing. 
 
 💡Skilled in leveraging Agile Project Management methodologies, Data Science Practices and Data Analytics through Visualization methods to deliver high-quality software solutions, while optimizing Digital Marketing strategies for enhanced business outcomes. 
 
