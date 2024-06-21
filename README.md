@@ -9,12 +9,14 @@
 
 # Certified As : 
 <div align="left">
-<img src="https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/twitter_thumb_201604_image.png" height="118" alt="php logo"  />
-<img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/twitter_thumb_201604_image.png" height="118" alt="php logo"  />
-<img src="https://images.credly.com/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/twitter_thumb_201604_CERT-Expert-DevOps-Engineer-600x600.png" height="118" alt="php logo"  />
-<img src="https://images.credly.com/size/680x680/images/87eec792-3c63-4526-aafb-da866a30fa54/image.png" height="118" alt="php logo"  />
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIyIWLCU5ie0qwoAdihRdoKYVJVQ_D8dmrxw&s" height="118" alt="php logo"  />
-<img src="https://images.credly.com/images/697cf123-74b0-4356-9055-9973471d26d6/03_Oracle_Cloud_Infrastructure_Foundations_Associate.png" height="118" alt="php logo"  />
+<img src="https://images.credly.com/images/997d4586-e7b2-4174-9c76-5c7304953e2c/image.png" height="115" alt="php logo"  />
+<img src="https://images.credly.com/images/1ad28ff4-5b00-43ee-9898-f002ef7c6a5a/GCC_badge_UX_1000x1000.png" height="115" alt="php logo"  />
+<img src="https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/twitter_thumb_201604_image.png" height="115" alt="php logo"  />
+<img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/twitter_thumb_201604_image.png" height="115" alt="php logo"  />
+<img src="https://images.credly.com/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/twitter_thumb_201604_CERT-Expert-DevOps-Engineer-600x600.png" height="115" alt="php logo"  />
+<img src="https://images.credly.com/size/680x680/images/87eec792-3c63-4526-aafb-da866a30fa54/image.png" height="115" alt="php logo"  />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIyIWLCU5ie0qwoAdihRdoKYVJVQ_D8dmrxw&s" height="115" alt="php logo"  />
+<img src="https://images.credly.com/images/697cf123-74b0-4356-9055-9973471d26d6/03_Oracle_Cloud_Infrastructure_Foundations_Associate.png" height="115" alt="php logo"  />
 
 # My Github Stats 
 <div> <a href="https://github.com/reshmaoleti" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-github-170-1175028.png?f=webp" height="40" alt="GitHub" target="_blank"></a>
