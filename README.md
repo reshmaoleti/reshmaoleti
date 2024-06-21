@@ -3,11 +3,18 @@
 
 💡Skilled in leveraging Agile Project Management methodologies, Data Science Practices and Data Analytics through Visualization methods to deliver high-quality software solutions, while optimizing Digital Marketing strategies for enhanced business outcomes. 
 
-🏆Certified as : Google Associate Cloud Engineer, Azure DevOps Engineer Expert, AWS Solution Architect Associate, MuleSoft Developer & Aviatrix Multicloud Network Associate.
-
 📚Currently Upskilling in : Machine Learning techniques, Data Analytics 2024 Edition, PHP Advanced Level
 
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/53ca8b66027827.5b0801e2d4de2.gif)](https://github.com/reshmaoleti)
+
+# Certified As : 
+<div align="left">
+<img src="https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/twitter_thumb_201604_image.png" height="130" alt="php logo"  />
+<img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/twitter_thumb_201604_image.png" height="130" alt="php logo"  />
+<img src="https://images.credly.com/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/twitter_thumb_201604_CERT-Expert-DevOps-Engineer-600x600.png" height="130" alt="php logo"  />
+<img src="https://images.credly.com/size/680x680/images/87eec792-3c63-4526-aafb-da866a30fa54/image.png" height="130" alt="php logo"  />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIyIWLCU5ie0qwoAdihRdoKYVJVQ_D8dmrxw&s" height="130" alt="php logo"  />
+<img src="https://images.credly.com/images/697cf123-74b0-4356-9055-9973471d26d6/03_Oracle_Cloud_Infrastructure_Foundations_Associate.png" height="130" alt="php logo"  />
 
 # My Github Stats 
 <div> <a href="https://github.com/reshmaoleti" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-github-170-1175028.png?f=webp" height="40" alt="GitHub" target="_blank"></a>
