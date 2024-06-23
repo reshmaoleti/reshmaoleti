@@ -15,7 +15,7 @@
 <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/twitter_thumb_201604_image.png" height="110" alt="php logo"  />
 <img src="https://images.credly.com/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/twitter_thumb_201604_CERT-Expert-DevOps-Engineer-600x600.png" height="110" alt="php logo"  />
 <img src="https://images.credly.com/size/680x680/images/87eec792-3c63-4526-aafb-da866a30fa54/image.png" height="110" alt="php logo"  />
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIyIWLCU5ie0qwoAdihRdoKYVJVQ_D8dmrxw&s" height="110" alt="php logo"  />
+<img src="https://images.credly.com/images/20e5d0bb-ce03-4d2c-a9b5-f28d2495a5ec/image.png" height="110" alt="php logo"  />
 <img src="https://images.credly.com/images/697cf123-74b0-4356-9055-9973471d26d6/03_Oracle_Cloud_Infrastructure_Foundations_Associate.png" height="110" alt="php logo"  />
 
 # My Github Stats 
