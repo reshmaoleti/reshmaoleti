@@ -7,7 +7,7 @@
 
 📚Currently Upskilling in : Machine Learning techniques, Data Analytics 2024 Edition, PHP Advanced Level
 
-📧 Contact Me via Email : @reshmaoleti20@gmail.com
+<img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="15" alt="php logo"  />   Contact Me via Email : @reshmaoleti20@gmail.com
 
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/53ca8b66027827.5b0801e2d4de2.gif)](https://github.com/reshmaoleti)
 
