@@ -9,7 +9,7 @@
 
 <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="15" alt="php logo"  />   Contact Me via Email : @reshmaoleti20@gmail.com or
 
-🎤 Ask me about : Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Design & Cloud Computing with AWS
+<a href="https://linkedin.com/in/reshmaoleti" target="blank"><img align="center" src="https://stackoverflow.design/assets/img/favicons/apple-touch-icon.png" alt="reshmaoleti" height="25" width="25" /></a> Ask me here about : Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Design & Cloud Computing with AWS.
 
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/53ca8b66027827.5b0801e2d4de2.gif)](https://github.com/reshmaoleti)
 
