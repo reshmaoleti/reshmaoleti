@@ -21,8 +21,8 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 <img src="https://images.credly.com/size/680x680/images/87eec792-3c63-4526-aafb-da866a30fa54/image.png" height="110" alt="php logo"  />
 <img src="https://images.credly.com/size/680x680/images/49fbc5ab-1d58-41b0-b926-09cdcabb33a0/image.png" height="110" alt="php logo"  />
 <img src="https://images.credly.com/images/697cf123-74b0-4356-9055-9973471d26d6/03_Oracle_Cloud_Infrastructure_Foundations_Associate.png" height="110" alt="php logo"  />
-
-# My Github Stats 
+  
+# My Github Stats :
 <div> <a href="https://github.com/reshmaoleti" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-github-170-1175028.png?f=webp" height="40" alt="GitHub" target="_blank"></a>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reshmaoleti&layout=compact&theme=ayu-light" alt=reshmaoleti />
 
@@ -34,7 +34,7 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 
 ---
 
-# My Tech Tools
+# My Tech Tools :
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -104,7 +104,7 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 
 ---
 
-# Connect with me on
+# Connect with me on :
 <p align="left">
 <a href="https://linkedin.com/in/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="reshmaoleti" height="30" width="40" /></a><a href="https://fb.com/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="reshmaoleti" height="30" width="40" /></a><a href="https://www.medium.com/@reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="reshmaoleti" height="30" width="40" /></a>
  </p><p align="center"> <img src="https://wallpapers.com/images/hd/motivational-aesthetic-desktop-n6m03yl1tfnt8msm.jpg" alt="Image" width="500" /></p>
