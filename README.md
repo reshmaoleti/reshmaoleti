@@ -1,4 +1,4 @@
-# Hello, I'm Reshma Oleti <img src="https://rtionline.gov.in/sound_200.gif" alt="Image Description" height="26.5">
+# Hello, I'm Reshma Oleti <img src="https://rtionline.gov.in/sound_200.gif" alt="Image Description" height="25.5">
 ## BTech Graduate in Computer Science & Engineering from : <img src="https://upload.wikimedia.org/wikipedia/en/7/78/KL_University_logo.svg" height="30" alt="php logo"  />
 
 👩‍💻Proficient in Full-stack Development, DevOps, UX Design & Cloud Computing, complemented by self-taught expertise in Digital Marketing. 
