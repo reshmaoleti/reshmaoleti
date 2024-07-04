@@ -1,4 +1,4 @@
-# Hello, I'm Reshma Oleti <img src="https://rtionline.gov.in/sound_200.gif" alt="Image Description" height="30">
+# Hello, I'm Reshma Oleti <img src="https://rtionline.gov.in/sound_200.gif" alt="Image Description" height="26.5">
 ## BTech Graduate in Computer Science & Engineering from : <img src="https://upload.wikimedia.org/wikipedia/en/7/78/KL_University_logo.svg" height="30" alt="php logo"  />
 
 👩‍💻Proficient in Full-stack Development, DevOps, UX Design & Cloud Computing, complemented by self-taught expertise in Digital Marketing. 
@@ -22,7 +22,7 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 <img src="https://images.credly.com/size/680x680/images/49fbc5ab-1d58-41b0-b926-09cdcabb33a0/image.png" height="110" alt="php logo"  />
 <img src="https://images.credly.com/images/697cf123-74b0-4356-9055-9973471d26d6/03_Oracle_Cloud_Infrastructure_Foundations_Associate.png" height="110" alt="php logo"  />
   
-# My Github Stats <img src="https://loading.io/assets/mod/spinner/bar-chart/sample.gif" height="40">  :
+# My Github Stats <img src="https://loading.io/assets/mod/spinner/bar-chart/sample.gif" height="35">  :
 <div> <a href="https://github.com/reshmaoleti" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-github-170-1175028.png?f=webp" height="40" alt="GitHub" target="_blank"></a>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reshmaoleti&layout=compact&theme=ayu-light" alt=reshmaoleti />
 
