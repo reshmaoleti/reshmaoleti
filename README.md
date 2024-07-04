@@ -1,5 +1,5 @@
 # Hello, I'm Reshma Oleti <img src="https://rtionline.gov.in/sound_200.gif" alt="Image Description" height="26">
-## BTech Graduate in Computer Science & Engineering from : <a href="https://www.kluniversity.in" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/7/78/KL_University_logo.svg" height="30" alt="php logo"  /></a>
+## BTech Graduate in Computer Science & Engineering from : <a href="https://www.kluniversity.in" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/7/78/KL_University_logo.svg" height="30" alt="php logo"/></a>
 
 👩‍💻Proficient in Full-stack Development, DevOps, UX Design & Cloud Computing, complemented by self-taught expertise in Digital Marketing. 
 
@@ -105,8 +105,7 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 </div>
 
 ---
-
-# <img src="https://lordicon.com/icons/wired/flat/11-link-unlink.gif" height="27"> Connect with me on :
+# <img src="https://lordicon.com/icons/wired/flat/11-link-unlink.gif" height="28"> Connect with me on :
 <p align="left">
 <a href="https://linkedin.com/in/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="reshmaoleti" height="30" width="40" /></a><a href="https://fb.com/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="reshmaoleti" height="30" width="40" /></a><a href="https://www.medium.com/@reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="reshmaoleti" height="30" width="40" /></a>
  </p><p align="center"> <img src="https://wallpapers.com/images/hd/motivational-aesthetic-desktop-n6m03yl1tfnt8msm.jpg" alt="Image" width="500" /></p>
