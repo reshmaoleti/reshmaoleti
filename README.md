@@ -34,7 +34,7 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 
 ---
 
-# My Tech Tools <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" height="50"> :
+# My Tech Tools <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" height="45"> :
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -106,7 +106,7 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 
 ---
 
-# <img src="https://lordicon.com/icons/wired/flat/11-link-unlink.gif" height="30"> Connect with me on :
+# <img src="https://lordicon.com/icons/wired/flat/11-link-unlink.gif" height="27"> Connect with me on :
 <p align="left">
 <a href="https://linkedin.com/in/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="reshmaoleti" height="30" width="40" /></a><a href="https://fb.com/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="reshmaoleti" height="30" width="40" /></a><a href="https://www.medium.com/@reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="reshmaoleti" height="30" width="40" /></a>
  </p><p align="center"> <img src="https://wallpapers.com/images/hd/motivational-aesthetic-desktop-n6m03yl1tfnt8msm.jpg" alt="Image" width="500" /></p>
