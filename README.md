@@ -36,7 +36,7 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 # My Tech Tools <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" height="45"> :
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /><a href=https://www.google.com/search?q=javascript&rlz=1C1GCEA_enIN1122IN1122&oq=javascript&gs_lcrp=EgZjaHJvbWUqCggAEAAYsQMYgAQyCggAEAAYsQMYgAQyCggBEAAYsQMYgAQyCggCEAAYsQMYgAQyCggDEAAYsQMYgAQyCggEEAAYsQMYgAQyCggFEAAYsQMYgAQyCggGEAAYsQMYgAQyCggHEAAYsQMYgAQyCggIEAAYsQMYgAQyBwgJEAAYgATSAQgxOTIzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8 /></a>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
