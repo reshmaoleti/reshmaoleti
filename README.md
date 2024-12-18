@@ -70,6 +70,8 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-original.svg" height="40" alt="adobe xd logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="40" alt="jira logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
