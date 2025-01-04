@@ -7,7 +7,9 @@
 
 📚Currently Upskilling in : Machine Learning techniques, Data Analytics 2024 Edition, PHP Advanced Level
 
-<a href="https://mail.google.com" target="_blank"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="13" alt="php logo"  /></a>   Contact Me via Email : @reshmaoleti20@gmail.com  𝙊𝙍
+<img src="https://media.lordicon.com/icons/wired/outline/959-internet.gif" alt="Image Description" height="30"> Visit my Website here : ------
+
+<a href="https://mail.google.com" target="_blank"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="13" alt="php logo"  /></a>   Contact Me via Email : @reshmaoleti20@gmail.com  𝙊𝙍 
 ### Click here <a href="https://stackoverflow.com/questions/ask?tags=reshma-oleti" target="blank"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Stack_Overflow-512.png" height="25" alt="php logo"  /></a> to ask me about :
 Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Design & Cloud Computing with AWS.
 
@@ -118,5 +120,6 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 </div>
 
 ---
-# Visit My Website here <img src="https://media.lordicon.com/icons/wired/outline/959-internet.gif" height="36"> Or <img src="https://lordicon.com/icons/wired/flat/11-link-unlink.gif" height="28"> Connect with me on: <p align="right"><a href="https://linkedin.com/in/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="reshmaoleti" height="30" width="40" /></a><a href="https://fb.com/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="reshmaoleti" height="30" width="40" /></a><a href="https://www.medium.com/@reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="reshmaoleti" height="30" width="40" /></a></p><p align="center"><img src="https://wallpapers.com/images/hd/motivational-aesthetic-desktop-n6m03yl1tfnt8msm.jpg" alt="Image" width="500" /></p>
+# <img src="https://lordicon.com/icons/wired/flat/11-link-unlink.gif" height="28"> Connect with me on: 
+<p align="left"><a href="https://linkedin.com/in/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="reshmaoleti" height="30" width="40" /></a><a href="https://fb.com/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="reshmaoleti" height="30" width="40" /></a><a href="https://www.medium.com/@reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="reshmaoleti" height="30" width="40" /></a></p><p align="center"><img src="https://wallpapers.com/images/hd/motivational-aesthetic-desktop-n6m03yl1tfnt8msm.jpg" alt="Image" width="500" /></p>
 
