@@ -36,7 +36,7 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 
 ---
 
-# My Tech Tools <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" height="45"> :
+# My Tech Tools <img src="https://bit.ly/40AYTeE" height="45"> :
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
