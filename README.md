@@ -25,7 +25,7 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 <img src="https://images.credly.com/size/680x680/images/49fbc5ab-1d58-41b0-b926-09cdcabb33a0/image.png" height="110" alt="php logo"  />
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=D5221B766D62DF02A3C1EF1FC60FE82F505C32677B96361C401D8DBE5E0B0FD7" target="_blank"><img src="https://images.credly.com/images/697cf123-74b0-4356-9055-9973471d26d6/03_Oracle_Cloud_Infrastructure_Foundations_Associate.png" height="110" alt="php logo"  /></a>
  
-# My Github Stats <img src="https://loading.io/assets/mod/spinner/bar-chart/sample.gif" height="35">  :
+# My Github Stats <img src="https://bit.ly/40zI6IF" height="38">  :
 <div> <a href="https://github.com/reshmaoleti" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-github-170-1175028.png?f=webp" height="40" alt="GitHub" target="_blank"></a>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reshmaoleti&layout=compact&theme=ayu-light" alt=reshmaoleti />
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=reshmaoleti&show_icons=true&locale=en&theme=ayu-light" alt="reshmaoleti" /></p>
