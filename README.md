@@ -31,7 +31,7 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=reshmaoleti&show_icons=true&locale=en&theme=ayu-light" alt="reshmaoleti" /></p>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=reshmaoleti&theme=ayu-light" height="190em" alt="reshmaoleti" style="padding-right: 10px;">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRub3ozdTE4MXk2dzZ1bjliMzhkazR3d2g0Z2o3N3lmNG1zOHNlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vIMRMLfGAx4npIzmLS/giphy.gif" height="200" alt="GitHub">
+  <img src="http://bit.ly/40uJigw" height="200" alt="GitHub">
 </p>
 
 ---
