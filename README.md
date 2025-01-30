@@ -27,10 +27,10 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
  
 # My Github Stats <img src="https://bit.ly/40zI6IF" height="38">  :
 <div> <a href="https://github.com/reshmaoleti" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-github-170-1175028.png?f=webp" height="40" alt="GitHub" target="_blank"></a>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reshmaoleti&layout=compact&theme=ayu-light" alt=reshmaoleti />
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=reshmaoleti&show_icons=true&locale=en&theme=ayu-light" alt="reshmaoleti" /></p>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reshmaoleti&layout=compact&theme=transparent" alt=reshmaoleti />
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=reshmaoleti&show_icons=true&locale=en&theme=transparent" alt="reshmaoleti" /></p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reshmaoleti&theme=ayu-light" height="190em" alt="reshmaoleti" style="padding-right: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reshmaoleti&theme=transparent" height="190em" alt="reshmaoleti" style="padding-right: 10px;">
   <img src="https://bit.ly/4jAlmRE" height="205" alt="GitHub">
 </p>
 
