@@ -16,7 +16,7 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/53ca8b66027827.5b0801e2d4de2.gif)](https://github.com/reshmaoleti)
 
-# I am Globally Certified as <img src="https://media2.giphy.com/media/Exc9GvjitUCPczepZe/giphy.gif?cid=6c09b9526fb78ccbs41zrz14cfh0wln3rap28oe2rb8yqm7s&amp;ep=v1_internal_gif_by_id&amp;rid=giphy.gif&amp;ct=s" height="40"> : 
+# I am Globally Certified as <img src="https://media2.giphy.com/media/Exc9GvjitUCPczepZe/giphy.gif?cid=6c09b9526fb78ccbs41zrz14cfh0wln3rap28oe2rb8yqm7s&amp;ep=v1_internal_gif_by_id&amp;rid=giphy.gif&amp;ct=s" height="35"> : 
 <div align="left">
 <a href="https://www.credly.com/badges/446a7263-74eb-4ce4-a166-12203149aca2/public_url" target="blank"><img src="https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/twitter_thumb_201604_image.png" height="110" alt="php logo"  /></a>
 <a href="https://www.credly.com/badges/61916b3d-0a46-457e-b7d1-0bedf91d4a6a/public_url" target="blank"><img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/twitter_thumb_201604_image.png" height="110" alt="php logo"  /></a>
@@ -25,7 +25,7 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 <img src="https://images.credly.com/size/680x680/images/49fbc5ab-1d58-41b0-b926-09cdcabb33a0/image.png" height="110" alt="php logo"  />
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=D5221B766D62DF02A3C1EF1FC60FE82F505C32677B96361C401D8DBE5E0B0FD7" target="_blank"><img src="https://images.credly.com/images/697cf123-74b0-4356-9055-9973471d26d6/03_Oracle_Cloud_Infrastructure_Foundations_Associate.png" height="110" alt="php logo"  /></a>
  
-# My Github Stats <img src="https://bit.ly/40zI6IF" height="38">  :
+# My Github Stats <img src="https://bit.ly/40zI6IF" height="33">  :
 <div> <a href="https://github.com/reshmaoleti" target="_blank"><img src="https://img.icons8.com/?size=512&id=52539&format=png" height="40" alt="GitHub" target="_blank"></a>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reshmaoleti&layout=compact&theme=transparent" alt=reshmaoleti />
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=reshmaoleti&show_icons=true&locale=en&theme=transparent" alt="reshmaoleti" /></p>
@@ -36,7 +36,7 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 
 ---
 
-# My Tech Tools <img src="https://bit.ly/40AYTeE" height="45"> :
+# My Tech Tools <img src="https://bit.ly/40AYTeE" height="39"> :
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -133,6 +133,6 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 </div>
 
 ---
-# Connect with me on <img src="https://tinyurl.com/38pjfj4c" height="35"> : 
+# Connect with me on <img src="https://tinyurl.com/38pjfj4c" height="31"> : 
 <p align="left"><a href="https://linkedin.com/in/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="reshmaoleti" height="30" width="40" /></a><a href="https://fb.com/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="reshmaoleti" height="30" width="40" /></a><a href="https://www.medium.com/@reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="reshmaoleti" height="30" width="40" /></a></p><p align="center"><img src="https://wallpapers.com/images/hd/motivational-aesthetic-desktop-n6m03yl1tfnt8msm.jpg" alt="Image" width="500" /></p>
 
