@@ -7,7 +7,7 @@
 
 📚Currently Upskilling in : Machine Learning techniques, Data Analytics 2024 Edition, PHP Advanced Level
 
-<img src="https://static-00.iconduck.com/assets.00/globe-with-meridians-emoji-512x512-h81jq4m1.png" alt="Image Description" height="16"> Visit my Website here : ------ 𝙊𝙍   
+<img src="https://static-00.iconduck.com/assets.00/globe-with-meridians-emoji-512x512-h81jq4m1.png" alt="Image Description" height="16"> Visit my Website here : reshma/netlify 𝙊𝙍   
 
 <a href="https://mail.google.com" target="_blank"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="13" alt="php logo"  /></a>   Contact Me via Email : @reshmaoleti20@gmail.com 
 
