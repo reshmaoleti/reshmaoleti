@@ -1,4 +1,4 @@
-# Hello, I'm Reshma oleti <img src="https://media.lordicon.com/icons/wired/gradient/726-wireless-connection.gif" alt="Image Description" height="30">
+# Hello, I'm Reshma oleti <img src="https://media.giphy.com/media/6asg7PciYQwCYALi8x/giphy.gif?cid=790b76114a8ec145e53b667d173b36e4d8c0fccc4a67d4f6&ep=v1_user_favorites&rid=giphy.gif&ct=s" alt="Image Description" height="40">
 ## BTech Graduate in Computer Science & Engineering from : <a href="https://www.kluniversity.in" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/7/78/KL_University_logo.svg" height="30" alt="php logo"/></a>
 
 👩‍💻Proficient in Full-stack Development, DevOps, UX Design & Cloud Computing, complemented by self-taught expertise in Digital Marketing. 
