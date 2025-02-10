@@ -1,4 +1,4 @@
-# Hello, I'm Reshma oleti <img src="https://media.giphy.com/media/6asg7PciYQwCYALi8x/giphy.gif?cid=790b76114a8ec145e53b667d173b36e4d8c0fccc4a67d4f6&ep=v1_user_favorites&rid=giphy.gif&ct=s" alt="Image Description" height="40">
+# Hello, I'm Reshma oleti <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVkYjViOWU5N2EwZmRhMmI5N2NiMjI5ZDhkYjk1NWM2YzRlY2M3ZCZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1z/NEWTFl37L948XEcwxG/giphy.gif" alt="Image Description" height="40">
 ## BTech Graduate in Computer Science & Engineering from : <a href="https://www.kluniversity.in" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/7/78/KL_University_logo.svg" height="30" alt="php logo"/></a>
 
 👩‍💻Proficient in Full-stack Development, DevOps, UX Design & Cloud Computing, complemented by self-taught expertise in Digital Marketing. 
