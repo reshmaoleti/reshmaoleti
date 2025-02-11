@@ -23,7 +23,7 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 <img src="https://images.credly.com/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/twitter_thumb_201604_CERT-Expert-DevOps-Engineer-600x600.png" height="110" alt="php logo"  />
 <a href="https://www.credly.com/badges/dfe28ced-2a30-4ba0-8f8f-85d0974f4312/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/87eec792-3c63-4526-aafb-da866a30fa54/image.png" height="110" alt="php logo"  /></a>
 <img src="https://images.credly.com/size/680x680/images/49fbc5ab-1d58-41b0-b926-09cdcabb33a0/image.png" height="110" alt="php logo"  />
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=D5221B766D62DF02A3C1EF1FC60FE82F505C32677B96361C401D8DBE5E0B0FD7" target="_blank"><img src="https://images.credly.com/images/697cf123-74b0-4356-9055-9973471d26d6/03_Oracle_Cloud_Infrastructure_Foundations_Associate.png" height="110" alt="php logo"  /></a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=91E17D8E5191E2FF3BB004E64360C350FB36C86A17B35287B9E33D13CE222094" target="_blank"><img src="https://images.credly.com/images/697cf123-74b0-4356-9055-9973471d26d6/03_Oracle_Cloud_Infrastructure_Foundations_Associate.png" height="110" alt="php logo"  /></a>
  
 # My Github Stats <img src="https://bit.ly/40zI6IF" height="33">  :
 <div> <a href="https://github.com/reshmaoleti" target="_blank"><img src="https://img.icons8.com/?size=512&id=52539&format=png" height="40" alt="GitHub" target="_blank"></a>
