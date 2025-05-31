@@ -33,9 +33,8 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
   <img src="https://tinyurl.com/47zaf8s4" height="190" alt="GitHub">
 </p>
 
----
 
-## My Tech Tools <img src="https://bit.ly/40AYTeE" height="39"> :
+# My Tech Tools <img src="https://bit.ly/40AYTeE" height="39"> :
 
 <div align="left">
 
