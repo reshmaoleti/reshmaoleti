@@ -18,11 +18,11 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 
 # I'm Globally Certified as <img src="https://media2.giphy.com/media/Exc9GvjitUCPczepZe/giphy.gif?cid=6c09b9526fb78ccbs41zrz14cfh0wln3rap28oe2rb8yqm7s&amp;ep=v1_internal_gif_by_id&amp;rid=giphy.gif&amp;ct=s" height="35"> : 
 <div align="left">
-<a href="https://www.credly.com/badges/446a7263-74eb-4ce4-a166-12203149aca2/public_url" target="blank"><img src="https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/twitter_thumb_201604_image.png" height="110" alt="Google Cloud logo"  /></a>
-<a href="https://www.credly.com/badges/61916b3d-0a46-457e-b7d1-0bedf91d4a6a/public_url" target="blank"><img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/twitter_thumb_201604_image.png" height="110" alt="AWS Cloud logo"  /></a>
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/reshmaoleti/71517F6AD3EF403F?sharingId=C3DEE9CB4FD507D1" target="_blank"><img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" height="110" alt="Azure Fundamentals logo"  /></a>
-<a href="https://www.credly.com/badges/dfe28ced-2a30-4ba0-8f8f-85d0974f4312/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/e3c001fd-161d-433a-a7a4-049556d6112d/blob" height="110" alt="Aviatrix logo"  /></a>
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=91E17D8E5191E2FF3BB004E64360C350FB36C86A17B35287B9E33D13CE222094" target="_blank"><img src="https://images.credly.com/images/697cf123-74b0-4356-9055-9973471d26d6/03_Oracle_Cloud_Infrastructure_Foundations_Associate.png" height="110" alt="Oracle Cloud logo"  /></a>
+<a href="https://www.credly.com/badges/446a7263-74eb-4ce4-a166-12203149aca2/public_url" target="blank"><img src="https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/twitter_thumb_201604_image.png" height="105" alt="Google Cloud logo"  /></a>
+<a href="https://www.credly.com/badges/61916b3d-0a46-457e-b7d1-0bedf91d4a6a/public_url" target="blank"><img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/twitter_thumb_201604_image.png" height="105" alt="AWS Cloud logo"  /></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/reshmaoleti/71517F6AD3EF403F?sharingId=C3DEE9CB4FD507D1" target="_blank"><img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" height="105" alt="Azure Fundamentals logo"  /></a>
+<a href="https://www.credly.com/badges/dfe28ced-2a30-4ba0-8f8f-85d0974f4312/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/e3c001fd-161d-433a-a7a4-049556d6112d/blob" height="105" alt="Aviatrix logo"  /></a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=91E17D8E5191E2FF3BB004E64360C350FB36C86A17B35287B9E33D13CE222094" target="_blank"><img src="https://images.credly.com/images/697cf123-74b0-4356-9055-9973471d26d6/03_Oracle_Cloud_Infrastructure_Foundations_Associate.png" height="105" alt="Oracle Cloud logo"  /></a>
  
 # My Github Stats <img src="https://bit.ly/40zI6IF" height="33">  :
 <div> <a href="https://github.com/reshmaoleti" target="_blank"><img src="https://img.icons8.com/?size=512&id=52539&format=png" height="40" alt="GitHub" target="_blank"></a>
