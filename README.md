@@ -1,5 +1,5 @@
 # Hello, I'm Reshma oleti <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29wdDZkbGZ1YTZpNnlkeW0yNDdqNnZmb2JncmN6Y28wcjFha2F0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d9H4L8TIkKIsyJUc7J/giphy.gif" alt="Image Description" height="27">
-## BTech Graduate in Computer Science & Engineering from : <a href="https://www.kluniversity.in" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/7/78/KL_University_logo.svg" height="30" alt="php logo"/></a>
+## Masters Student in Data Science & Business Analytics from : <a href="https://www.kluniversity.in" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/7/78/KL_University_logo.svg" height="30" alt="php logo"/></a>
 
 👩‍💻Proficient in Full-stack Development, DevOps, UX Design & Cloud Computing, complemented by self-taught expertise in Digital Marketing. 
 
@@ -7,9 +7,7 @@
 
 📚Currently Upskilling in : Machine Learning techniques, Data Analytics 2024 Edition, PHP Advanced Level
 
-<img src="https://static-00.iconduck.com/assets.00/globe-with-meridians-emoji-512x512-h81jq4m1.png" alt="Image Description" height="16"> Visit my Portfolio Website : reshma/vercel 𝙊𝙍   
-
-<a href="https://mail.google.com" target="_blank"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="13" alt="php logo"  /></a>   Contact Me via Email : @reshmaoleti20@gmail.com 
+<img src="https://static-00.iconduck.com/assets.00/globe-with-meridians-emoji-512x512-h81jq4m1.png" alt="Image Description" height="16"> Visit my Portfolio Website : reshma/vercel 𝙊𝙍 <a href="https://mail.google.com" target="_blank"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="11" alt="php logo"  /></a>  Contact Me via Email : @reshmaoleti20@gmail.com 
 
 ### Click here <a href="https://stackoverflow.com/questions/ask?tags=reshma-oleti" target="blank"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Stack_Overflow-512.png" height="25" alt="php logo"  /></a> to ask me about :
 Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Design & Cloud Computing with AWS.
@@ -75,11 +73,18 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="20" alt="graphql logo" />
 <img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="20" alt="jupyter logo"  />
-<img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="20" alt="bootstrap logo"  />
 <img width="1" />
+
+🟩 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 & 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 : :
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="20" alt="jupyter logo"  />
+<img width="1" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="20" alt="numpy logo"  />
+<img width="1" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="20" alt="pandas logo"  />
+<img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="mysql logo"  />
+<img width="1" />
 
 🟥 𝗗𝗲𝘃𝗢𝗽𝘀, 𝗖𝗹𝗼𝘂𝗱 & 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="20" alt="ansible logo"  />
@@ -87,6 +92,8 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="20" alt="kubernetes logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="20" alt="selenium logo"  />
+<img width="1" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="20" alt="redhat logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="20" alt="prometheus logo"  />
 <img width="1" />
