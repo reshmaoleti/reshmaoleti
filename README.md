@@ -38,7 +38,7 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 
 <div align="left">
 
-🟦 𝐖𝐞𝐛 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 & 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 :
+🟦 𝗪𝗲𝗯 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 & 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="html5 logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="css3 logo"  />
@@ -81,7 +81,7 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="mysql logo"  />
 
-🟥 𝐃𝐞𝐯𝐎𝐩𝐬, 𝐂𝐥𝐨𝐮𝐝 & 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 :
+🟥 𝗗𝗲𝘃𝗢𝗽𝘀, 𝗖𝗹𝗼𝘂𝗱 & 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="20" alt="ansible logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="20" alt="kubernetes logo"  />
