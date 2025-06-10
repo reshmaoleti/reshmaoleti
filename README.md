@@ -76,7 +76,7 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="20" alt="bootstrap logo"  />
 <img width="1" />
 
-🟩 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 & 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 : :
+🟩 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀, 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 & 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 : :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="20" alt="jupyter logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="20" alt="numpy logo"  />
