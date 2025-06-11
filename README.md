@@ -36,7 +36,7 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 
 <div align="left">
 
-🟦 𝗪𝗲𝗯 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 & 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 :
+🟦 𝐖𝐞𝐛 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 & 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="html5 logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="css3 logo"  />
@@ -76,7 +76,7 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="20" alt="bootstrap logo"  />
 <img width="1" />
 
-🟩 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀, 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 & 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 : :
+🟩 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬, 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 & 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="20" alt="jupyter logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="20" alt="numpy logo"  />
@@ -89,7 +89,7 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 <img width="1" />
 <img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" height="20" alt="tableau logo"  />
 
-🟥 𝗗𝗲𝘃𝗢𝗽𝘀, 𝗖𝗹𝗼𝘂𝗱 & 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 :
+🟥 𝐃𝐞𝐯𝐎𝐩𝐬, 𝐂𝐥𝐨𝐮𝐝 & 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="20" alt="ansible logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="20" alt="kubernetes logo"  />
@@ -132,7 +132,7 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="20" alt="oracle logo"  />
 
-🟪 𝗖𝗿𝗲𝗮𝘁𝗶𝘃𝗲 𝗗𝗲𝘀𝗶𝗴𝗻 & 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 :
+🟪 𝐂𝐫𝐞𝐚𝐭𝐢𝐯𝐞 𝐃𝐞𝐬𝐢𝐠𝐧 & 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="20" alt="canva logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20" alt="figma logo"  />
@@ -148,3 +148,5 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 
 # Connect with me on <img src="https://tinyurl.com/38pjfj4c" height="28"> : 
 <p align="left"><a href="https://linkedin.com/in/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="reshmaoleti" height="30" width="40" /></a><a href="https://fb.com/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="reshmaoleti" height="30" width="40" /></a><a href="https://kaggle.com/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="reshmaoleti" height="30" width="40" /></a><a href="https://dribbble.com/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/dribbble.svg" alt="reshmaoleti" height="30" width="40" /></a></p><p align="center"><img src="https://wallpapers.com/images/hd/motivational-aesthetic-desktop-n6m03yl1tfnt8msm.jpg" alt="Image" width="500" /></p>
+
+<p align="center">𝐜𝐨𝐩𝐲𝐫𝐢𝐠𝐡𝐭𝐬 © 𝐫𝐞𝐬𝐡𝐦𝐚 𝐨𝐥𝐞𝐭𝐢 (𝐫𝐞𝐩𝐨 𝐫𝐞𝐚𝐝𝐦𝐞)</p>
