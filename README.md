@@ -32,11 +32,7 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
   <img src="https://tinyurl.com/47zaf8s4" height="190" alt="GitHub">
 </p>
 
-
 # My Tech Tools <img src="https://bit.ly/40AYTeE" height="39"> :
-
-<div align="left">
-
 🟦 𝐖𝐞𝐛 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 & 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="html5 logo"  />
 <img width="1" />
@@ -143,9 +139,7 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="20" alt="jira logo" />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sketch/sketch-original.svg" height="20" alt="sketch logo"  />
-
 </div>
-
 
 # Connect with me on <img src="https://tinyurl.com/38pjfj4c" height="28"> : 
 <p align="left"><a href="https://linkedin.com/in/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="reshmaoleti" height="30" width="40" /></a><a href="https://fb.com/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="reshmaoleti" height="30" width="40" /></a><a href="https://kaggle.com/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="reshmaoleti" height="30" width="40" /></a><a href="https://dribbble.com/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/dribbble.svg" alt="reshmaoleti" height="30" width="40" /></a></p><p align="center"><img src="https://wallpapers.com/images/hd/motivational-aesthetic-desktop-n6m03yl1tfnt8msm.jpg" alt="Image" width="500" /></p>
