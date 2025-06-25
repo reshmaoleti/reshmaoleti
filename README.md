@@ -82,6 +82,8 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="mysql logo"  />
 <img width="1" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="20" alt="mysql logo" />
+<img width="1" />
 <img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" height="20" alt="powerbi logo"  />
 <img width="1" />
 <img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" height="20" alt="tableau logo"  />
