@@ -88,6 +88,8 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 <img width="1" />
 <img src="https://cdn.brandfetch.io/idJz-fGD_q/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668517499361" height="20" alt="snowflake logo" />
 <img width="1" />
+<img src="https://cdn.brandfetch.io/idsWBrtc_i/theme/dark/idE6ee-S5P.svg?c=1bxid64Mup7aczewSAYMX&t=1721120380037" height="20" alt="microsoft excel logo" />
+<img width="1" />
 <img src="https://cdn.brandfetch.io/id9sYMA_Im/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668082242510" height="20" alt="tableau logo"  />
 
 🟥 𝐃𝐞𝐯𝐎𝐩𝐬, 𝐂𝐥𝐨𝐮𝐝 & 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 :
