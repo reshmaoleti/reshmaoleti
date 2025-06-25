@@ -1,4 +1,4 @@
-# Hello, I'm Reshma oleti <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29wdDZkbGZ1YTZpNnlkeW0yNDdqNnZmb2JncmN6Y28wcjFha2F0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d9H4L8TIkKIsyJUc7J/giphy.gif" alt="Image Description" height="27">
+# Hello, I'm Reshma oleti <img src="http://bit.ly/4kceKrR" alt="Image Description" height="27">
 ## BTech Graduate in Computer Science & Engineering from : <a href="https://www.kluniversity.in" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/7/78/KL_University_logo.svg" height="30" alt="php logo"/></a>
 
 👩‍💻Proficient in Full-stack Development, DevOps, UX Design & Cloud Computing, complemented by self-taught expertise in Digital Marketing. 
@@ -7,14 +7,14 @@
 
 📚Currently Upskilling in : Machine Learning techniques, Data Analytics 2024 Edition, PHP Advanced Level
 
-<img src="https://static-00.iconduck.com/assets.00/globe-with-meridians-emoji-512x512-h81jq4m1.png" alt="Image Description" height="16"> Visit my Portfolio Website : reshma/vercel 𝙊𝙍 <a href="https://mail.google.com" target="_blank"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="11" alt="php logo"  /></a>  Contact Me via Email : @reshmaoleti20@gmail.com 
+🌐Visit my Portfolio Website : reshma/vercel 𝙊𝙍  <a href="https://mail.google.com" target="_blank"><img src="https://cdn.brandfetch.io/id5o3EIREg/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1696475443284" height="11" alt="Gmail logo"  /></a>  Contact Me via Email : @reshmaoleti20@gmail.com 
 
 ### Click here <a href="https://stackoverflow.com/questions/ask?tags=reshma-oleti" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="25" alt="php logo"  /></a> to ask me about :
 Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Design & Cloud Computing with AWS.
 
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/53ca8b66027827.5b0801e2d4de2.gif)](https://github.com/reshmaoleti)
 
-# I'm Globally Certified as <img src="https://media2.giphy.com/media/Exc9GvjitUCPczepZe/giphy.gif?cid=6c09b9526fb78ccbs41zrz14cfh0wln3rap28oe2rb8yqm7s&amp;ep=v1_internal_gif_by_id&amp;rid=giphy.gif&amp;ct=s" height="35"> : 
+# I'm Globally Certified as <img src="http://bit.ly/4lo1CAM" height="35"> : 
 <div align="left">
 <a href="https://www.credly.com/badges/446a7263-74eb-4ce4-a166-12203149aca2/public_url" target="blank"><img src="https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/twitter_thumb_201604_image.png" height="105" alt="Google Cloud logo"  /></a>
 <a href="https://www.credly.com/badges/61916b3d-0a46-457e-b7d1-0bedf91d4a6a/public_url" target="blank"><img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/twitter_thumb_201604_image.png" height="105" alt="AWS Cloud logo"  /></a>
@@ -147,7 +147,7 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sketch/sketch-original.svg" height="20" alt="sketch logo"  />
 </div>
 
-# Connect with me on <img src="https://tinyurl.com/38pjfj4c" height="28"> : 
+# Connect with me on <img src="http://bit.ly/4eExjDX" height="28"> : 
 <p align="left"><a href="https://linkedin.com/in/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="reshmaoleti" height="30" width="40" /></a><a href="https://fb.com/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="reshmaoleti" height="30" width="40" /><a href="https://kaggle.com/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="reshmaoleti" height="30" width="40" /></a><a href="https://dribbble.com/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/dribbble.svg" alt="reshmaoleti" height="30" width="40" /></a></p><p align="center"><img src="https://wallpapers.com/images/hd/motivational-aesthetic-desktop-n6m03yl1tfnt8msm.jpg" alt="Image" width="500" /></p>
 
 <p align="center">𝐜𝐨𝐩𝐲𝐫𝐢𝐠𝐡𝐭𝐬 © 𝐫𝐞𝐬𝐡𝐦𝐚 𝐨𝐥𝐞𝐭𝐢 (𝐫𝐞𝐩𝐨 𝐫𝐞𝐚𝐝𝐦𝐞)</p>
