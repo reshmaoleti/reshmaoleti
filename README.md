@@ -7,7 +7,7 @@
 
 📚 Currently Upskilling in : Machine Learning techniques, Data Analytics 2024 Edition, PHP Advanced Level
 
-🌐 Visit my Portfolio Website : reshma/vercel or <a href="https://mail.google.com" target="_blank"><img src="https://cdn.brandfetch.io/id5o3EIREg/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1696475443284" height="11" alt="Gmail logo"  /></a>  Contact Me via Email : @reshmaoleti20@gmail.com 
+🌐 𝐕𝐢𝐬𝐢𝐭 𝐦𝐲 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 : reshma/vercel or <a href="https://mail.google.com" target="_blank"><img src="https://cdn.brandfetch.io/id5o3EIREg/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1696475443284" height="11" alt="Gmail logo"  /></a> 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐯𝐢𝐚 𝐄𝐦𝐚𝐢𝐥 : @reshmaoleti20@gmail.com 
 
 ### Click here <a href="https://stackoverflow.com/questions/ask?tags=reshma-oleti" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="25" alt="php logo"  /></a> to ask me about :
 Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Design & Cloud Computing with AWS.
