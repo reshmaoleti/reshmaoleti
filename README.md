@@ -7,7 +7,7 @@
 
 📚 Currently Upskilling in : Machine Learning techniques, Data Analytics 2024 Edition, PHP Advanced Level
 
-🌐 𝐕𝐢𝐬𝐢𝐭 𝐦𝐲 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 : reshma/vercel or <a href="https://mail.google.com" target="_blank"><img src="https://cdn.brandfetch.io/id5o3EIREg/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1696475443284" height="11" alt="Gmail logo"  /></a> 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐯𝐢𝐚 𝐄𝐦𝐚𝐢𝐥 : @reshmaoleti20@gmail.com 
+🌐 𝐕𝐢𝐬𝐢𝐭 𝐦𝐲 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 : reshma/vercel or <a href="https://mail.google.com" target="_blank"><img src="https://cdn.brandfetch.io/id5o3EIREg/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1696475443284" height="11" alt="Gmail logo"  /></a> 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐯𝐢𝐚 𝐄𝐦𝐚𝐢𝐥 : reshmaoleti20@gmail.com 
 
 ### Click here <a href="https://stackoverflow.com/questions/ask?tags=reshma-oleti" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="25" alt="php logo"  /></a> to ask me about :
 Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Design & Cloud Computing with AWS.
@@ -117,6 +117,9 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="20" alt="docker logo"  />
 <img width="1" />
+<img width="1" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="20" alt="terraform logo"  />
+<img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" height="20" alt="slack logo" />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height="20" alt="cloudflare logo" />
@@ -134,8 +137,6 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="20" alt="jenkins logo"  />
 <img width="1" />
 <img src="https://cdn.brandfetch.io/idg33VVWFZ/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1671108411130" height="20" alt="datadog logo"  />
-<img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="20" alt="terraform logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="20" alt="oracle logo"  />
 
