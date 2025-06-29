@@ -140,12 +140,18 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="20" alt="oracle logo"  />
 
-🟪 𝐂𝐫𝐞𝐚𝐭𝐢𝐯𝐞 𝐃𝐞𝐬𝐢𝐠𝐧 & 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 :
+🟪 𝐂𝐫𝐞𝐚𝐭𝐢𝐯𝐞 𝐃𝐞𝐬𝐢𝐠𝐧, 𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 & 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="20" alt="canva logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20" alt="figma logo"  />
 <img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="20" alt="adobe illustrator logo"  />
+<img src="https://cdn.brandfetch.io/id_KsyK7J9/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668516049842" height="20" alt="adobe logo"  />
+<img width="1" />
+<img src="https://cdn.brandfetch.io/idYpJMnlBx/w/192/h/192/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1744373190177" height="20" alt="google analytics logo"  />
+<img width="1" />
+<img src="https://cdn.brandfetch.io/idj5intvoH/w/480/h/480/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1746106502201" height="20" alt="hubspot logo"  />
+<img width="1" />
+<img src="https://cdn.brandfetch.io/idWvz5T3V7/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1691142640809" height="20" alt="meta logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="20" alt="notion logo"  />
 <img width="1" />
