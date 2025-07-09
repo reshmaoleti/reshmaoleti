@@ -2,6 +2,8 @@
 # Hello, I'm Reshma oleti <img src="http://bit.ly/4kceKrR" alt="Reshma speaks" height="27" width="30">
 ## BTech Graduate in Computer Science & Engineering from : <a href="https://www.kluniversity.in" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/7/78/KL_University_logo.svg" height="80" width="80" alt="php logo"/></a>
 
+💻 Currently Pursuing/ 💼 Currently Working as : [this information is not updated yet]
+
 👩‍💻 Proficient in Full-stack Development, DevOps, UX Design & Cloud Computing, complemented by self-taught expertise in Digital Marketing. 
 
 💡 Skilled in leveraging Agile Project Management methodologies, Data Science Practices and Data Analytics through Visualization methods to deliver high-quality software solutions, while optimizing Digital Marketing strategies for enhanced business outcomes. 
