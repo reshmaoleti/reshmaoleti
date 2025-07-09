@@ -2,13 +2,13 @@
 # Hello, I'm Reshma oleti <img src="http://bit.ly/4kceKrR" alt="Reshma speaks" height="27" width="30">
 ## BTech Graduate in Computer Science & Engineering from : <a href="https://www.kluniversity.in" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/7/78/KL_University_logo.svg" height="80" width="80" alt="php logo"/></a>
 
-💻 Currently Pursuing/ 💼 Currently Working as : [this information is not updated yet]
+👩‍🎓 Specialization in : 𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 & 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔 [⌛ in progress] ● 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑴𝒐𝒅𝒆𝒍𝒍𝒊𝒏𝒈 & 𝑫𝒆𝒗𝑶𝒑𝒔 [✅ completed]
 
-👩‍💻 Proficient in Full-stack Development, DevOps, UX Design & Cloud Computing, complemented by self-taught expertise in Digital Marketing. 
+👩‍💻 Proficient in Data Science & Analytics, Full-stack Development, DevOps, UX Design & Cloud Computing. 
 
-💡 Skilled in leveraging Agile Project Management methodologies, Data Science Practices and Data Analytics through Visualization methods to deliver high-quality software solutions, while optimizing Digital Marketing strategies for enhanced business outcomes. 
+💡 Skilled in leveraging Agile Project Management methodologies, Data Science practices through Visualization methods & Cloud computing techniques to deliver high-quality software solutions, while optimizing Digital Marketing strategies for enhanced business outcomes. 
 
-📚 Currently Upskilling in : Machine Learning techniques, Data Analytics 2024 Edition, PHP Advanced Level
+📚 Currently Upskilling in : Data Analytics 2025 Edition, Machine Learning techniques, PHP Advanced Level
 
 🌐 𝐕𝐢𝐬𝐢𝐭 𝐦𝐲 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 : reshma/vercel or <a href="https://mail.google.com" target="_blank"><img src="https://cdn.brandfetch.io/id5o3EIREg/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1696475443284" height="15" width="15" alt="Gmail logo"  /></a> 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐯𝐢𝐚 𝐄𝐦𝐚𝐢𝐥 : reshmaoleti20@gmail.com 
 
@@ -163,6 +163,8 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 <img src="https://cdn.brandfetch.io/idU6lzwMYA/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1678376729733" height="20" width="20" alt="clickup logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sketch/sketch-original.svg" height="20" width="20" alt="sketch logo"  />
+<img width="1" />
+<img src="https://cdn.brandfetch.io/idunI7Cam3/w/1024/h/1024/theme/dark/idvZ5-klGz.png?c=1bxid64Mup7aczewSAYMX&t=1749820779508" height="20" width="20" alt="picsart logo"  />
 </div>
 
 # Connect with me on <img src="http://bit.ly/4eExjDX" height="28" width="28"> : 
