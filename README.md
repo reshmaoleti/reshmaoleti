@@ -4,16 +4,16 @@
 
 👩‍🎓 Specialization in : 𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 & 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔 [⌛in progress] ● 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑴𝒐𝒅𝒆𝒍𝒍𝒊𝒏𝒈 & 𝑫𝒆𝒗𝑶𝒑𝒔 [✅completed]
 
-👩‍💻 Proficient in Data Science & Analytics, Full-stack Development, DevOps, UX Design & Cloud Computing. 
+👩‍💻 Proficient in Data Science & Business Analytics, Full-stack Web Development, DevOps, UX Design & Cloud Computing. 
 
-💡 Skilled in leveraging Agile methodologies, Data Science practices through Visualization methods & Cloud computing techniques to deliver high-quality software solutions, while optimizing innovative Design skills & Digital Marketing strategies for enhanced business outcomes. 
+💡 Skilled in leveraging Agile methodologies, Data Science practices through Visualization methods & Cloud deployment techniques to deliver high-quality software solutions, while optimizing innovative Design skills & Digital Marketing strategies for enhanced business outcomes. 
 
 📚 Currently Upskilling in : Data Analytics 2025 Edition, Machine Learning techniques, PHP Advanced Level
 
 🌐 𝐕𝐢𝐬𝐢𝐭 𝐦𝐲 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 : reshma/vercel or <a href="https://mail.google.com" target="_blank"><img src="https://cdn.brandfetch.io/id5o3EIREg/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1696475443284" height="15" width="15" alt="Gmail logo"  /></a> 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐯𝐢𝐚 𝐄𝐦𝐚𝐢𝐥 : reshmaoleti20@gmail.com 
 
 ### Click here <a href="https://stackoverflow.com/questions/ask?tags=reshma-oleti" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="25" width="25" alt="php logo"  /></a> to ask me about :
-Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Design & Cloud Computing with AWS.
+Business Analytics using Power BI, Full stack Development with React, DevOps Tools & Lifecyle, Principles of UX Design & Cloud Computing with AWS.
 
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/53ca8b66027827.5b0801e2d4de2.gif)](https://github.com/reshmaoleti)
 
@@ -36,7 +36,7 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 </p>
 
 # My Tech Tools <img src="https://bit.ly/40AYTeE" height="39" width="39"> :
-🟦 𝐖𝐞𝐛 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 & 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 :
+🟦 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 & 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" width="20" alt="html5 logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" width="20" alt="css3 logo"  />
@@ -44,6 +44,8 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="20" width="20" alt="c# logo" />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" width="20" alt="javascript logo" />
+<img width="1" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" height="20" width="20" alt="R programming logo" />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" width="20" alt="python logo" />
 <img width="1" />
@@ -69,8 +71,6 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="20" width="20" alt="eclipse logo"  />
 <img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="20" width="20" alt="graphql logo" />
-<img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="20" width="20" alt="bootstrap logo"  />
 <img width="1" />
 
@@ -87,7 +87,7 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20" width="20" alt="mongodb logo"  />
 <img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="20" width="20" alt="mysql logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="20" width="20" alt="tensorflow logo" />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" height="20" width="20" alt="apache logo" />
 <img width="1" />
@@ -98,6 +98,8 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 <img src="https://cdn.brandfetch.io/idVCtIagXj/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1749087313031" height="20" width="20" alt="powerbi logo"  />
 <img width="1" />
 <img src="https://cdn.brandfetch.io/idJz-fGD_q/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668517499361" height="20" width="20" alt="snowflake logo" />
+<img width="1" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" height="20" width="20" alt="splunk logo" />
 <img width="1" />
 <img src="https://cdn.brandfetch.io/idsWBrtc_i/theme/dark/idE6ee-S5P.svg?c=1bxid64Mup7aczewSAYMX&t=1721120380037" height="20" width="20" alt="microsoft excel logo" />
 <img width="1" />
@@ -116,11 +118,9 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="20" width="20" alt="azure logo"  />
 <img width="1" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="20" width="20" alt="github actions logo" />
+<img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="20" width="20" alt="amazonwebservices logo"  />
-<img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="20" width="20" alt="azuredevops logo"  />
-<img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" height="20" width="20" alt="splunk logo" />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="20" width="20" alt="docker logo"  />
 <img width="1" />
@@ -130,7 +130,7 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height="20" width="20" alt="cloudflare logo" />
 <img width="1" />
-<img src="https://cdn.brandfetch.io/id3l3cK6e9/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1749850668642" height="20" width="20" alt="progress chef logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="20" width="20" alt="gitlab logo" />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vault/vault-original.svg" height="20" width="20" alt="hashicorp vault logo" />
 <img width="1" />
@@ -138,7 +138,7 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20" width="20" alt="linux logo"  />
 <img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="20" width="20" alt="bash logo"  />
+<img src="https://cdn.brandfetch.io/id3l3cK6e9/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1749850668642" height="20" width="20" alt="chef logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="20" width="20" alt="jenkins logo"  />
 <img width="1" />
@@ -160,8 +160,6 @@ Full Stack Development with React, DevOps Tools & Lifecyle, Principles of UX Des
 <img src="https://cdn.brandfetch.io/idWvz5T3V7/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1691142640809" height="20" width="20" alt="meta logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="20" width="20" alt="notion logo"  />
-<img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" height="20" width="20" alt="slack logo" />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="20" width="20" alt="jira logo" />
 <img width="1" />
