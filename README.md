@@ -102,7 +102,7 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 <img width="1" />
 <img src="https://cdn.brandfetch.io/idJz-fGD_q/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668517499361" height="20" width="20" alt="snowflake logo" />
 <img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" height="20" width="20" alt="splunk logo" />
+<img src="https://cdn.brandfetch.io/idW3VhiylC/w/820/h/442/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1752189694234" height="30" width="30" alt="scikit learn logo" />
 <img width="1" />
 <img src="https://cdn.brandfetch.io/idsWBrtc_i/theme/dark/idE6ee-S5P.svg?c=1bxid64Mup7aczewSAYMX&t=1721120380037" height="20" width="20" alt="microsoft excel logo" />
 <img width="1" />
