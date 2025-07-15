@@ -129,9 +129,9 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="20" width="20" alt="terraform logo"  />
 <img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height="20" width="20" alt="cloudflare logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="20" width="20" alt="grafana logo" />
 <img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="20" width="20" alt="gitlab logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" height="20" width="20" alt="slack logo" />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vault/vault-original.svg" height="20" width="20" alt="hashicorp vault logo" />
 <img width="1" />
@@ -160,9 +160,13 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 <img width="1" />
 <img src="https://cdn.brandfetch.io/idWvz5T3V7/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1691142640809" height="20" width="20" alt="meta logo"  />
 <img width="1" />
+<img src="https://cdn.brandfetch.io/iddFGFHNcm/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1667580531176" height="20" width="20" alt="maze logo"  />
+<img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="20" width="20" alt="notion logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="20" width="20" alt="jira logo" />
+<img width="1" />
+<img src="https://cdn.brandfetch.io/idsWBrtc_i/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1721120556010" height="20" width="20" alt="Microsoft office 365 logo"  />
 <img width="1" />
 <img src="https://cdn.brandfetch.io/idU6lzwMYA/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1678376729733" height="20" width="20" alt="clickup logo"  />
 <img width="1" />
