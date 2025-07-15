@@ -73,6 +73,7 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="20" width="20" alt="bootstrap logo"  />
 <img width="1" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height="20" width="20" alt="anaconda logo" />
 
 🟩 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬, 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 & 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="20" width="20" alt="jupyter logo"  />
@@ -93,9 +94,11 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" height="20" width="20" alt="apache logo" />
 <img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height="20" width="20" alt="anaconda logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" height="20" width="20" alt="anaconda logo" />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="20" width="20" alt="azure sql database logo" />
+<img width="1" />
+<img src="https://cdn.brandfetch.io/idSUrLOWbH/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668081624532" height="20" width="20" alt="databricks logo" />
 <img width="1" />
 <img src="https://cdn.brandfetch.io/idVCtIagXj/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1749087313031" height="20" width="20" alt="powerbi logo"  />
 <img width="1" />
@@ -123,8 +126,6 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="20" width="20" alt="amazonwebservices logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="20" width="20" alt="docker logo"  />
-<img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" height="20" width="20" alt="OAuth 2.0 logo" />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="20" width="20" alt="terraform logo"  />
 <img width="1" />
