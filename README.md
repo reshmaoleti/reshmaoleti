@@ -55,6 +55,8 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" height="20" width="20" alt="postman logo" />
 <img width="1" />
+<img src="https://cdn.brandfetch.io/idD7RfhCFS/w/512/h/512/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1667605689688" height="20" width="20" alt="Junit logo" />
+<img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="20" width="20" alt="django logo" />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" width="20" alt="react logo"  />
@@ -129,6 +131,8 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="20" width="20" alt="terraform logo"  />
 <img width="1" />
+<img src="https://cdn.brandfetch.io/idIq_kF0rb/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1667565306852" height="20" width="20" alt="cypress.io logo"  />
+<img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="20" width="20" alt="grafana logo" />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="20" width="20" alt="gitlab logo" />
@@ -147,7 +151,7 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="20" width="20" alt="oracle logo"  />
 
-🟪 𝐂𝐫𝐞𝐚𝐭𝐢𝐯𝐞 𝐃𝐞𝐬𝐢𝐠𝐧, 𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 & 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 :
+🟪 𝐔𝐈/𝐔𝐗 𝐃𝐞𝐬𝐢𝐠𝐧, 𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 & 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="20" width="20" alt="canva logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20" width="20" alt="figma logo"  />
