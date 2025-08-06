@@ -4,7 +4,7 @@
 
 👩‍🎓 Specialized in : 𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 & 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔 [⌛in progress] ● 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑴𝒐𝒅𝒆𝒍𝒍𝒊𝒏𝒈 & 𝑫𝒆𝒗𝑶𝒑𝒔 [✅completed]
 
-🏅 Represented as : Microsoft Learn Student Ambassador Beta
+🏅 Represented as : Microsoft Learn Student Ambassador - Level Beta
 
 👩‍💻 Proficient in Data Science & Business Analytics, Full-stack Web Development, DevOps, UX Design & Cloud Computing. 
 
