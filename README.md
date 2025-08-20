@@ -4,7 +4,7 @@
 
 👩‍🎓 Specialized in : 𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 & 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔 [⌛in progress] ● 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑴𝒐𝒅𝒆𝒍𝒍𝒊𝒏𝒈 & 𝑫𝒆𝒗𝑶𝒑𝒔 [✅completed]
 
-🏅 Represented as : 𝑴𝒊𝒄𝒓𝒐𝒔𝒐𝒇𝒕 𝑳𝒆𝒂𝒓𝒏 𝑺𝒕𝒖𝒅𝒆𝒏𝒕 𝑨𝒎𝒃𝒂𝒔𝒔𝒂𝒅𝒐𝒓 - Level 𝐁𝐞𝐭𝐚 <a href="https://www.kluniversity.in" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/10183/10183567.png" alt="Reshma speaks" height="15" width="15"></a>
+🏅 Represented as : 𝑴𝒊𝒄𝒓𝒐𝒔𝒐𝒇𝒕 𝑳𝒆𝒂𝒓𝒏 𝑺𝒕𝒖𝒅𝒆𝒏𝒕 𝑨𝒎𝒃𝒂𝒔𝒔𝒂𝒅𝒐𝒓 - Level 𝐁𝐞𝐭𝐚 <a href="Link Unavailable at the moment"><img src="https://cdn-icons-png.flaticon.com/512/10183/10183567.png" alt="Reshma speaks" height="15" width="15"></a>
 
 👩‍💻 Proficient in Data Science & Business Analytics, Full-stack Web Development, DevOps, UX Design & Cloud Computing. 
 
