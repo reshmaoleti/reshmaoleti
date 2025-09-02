@@ -2,7 +2,7 @@
 # Hello, I'm Reshma oleti <img src="http://bit.ly/4kceKrR" alt="Reshma speaks" height="27" width="30">
 ## BTech Graduate in Computer Science & Engineering from : <a href="https://www.kluniversity.in" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/7/78/KL_University_logo.svg" height="80" width="80" alt="KL University logo"/></a>
 
-📈 Current Work Experience : 2+ as Associate Software Engineer at : <a href="https://www.dlf.in/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/DLF_logo.svg/960px-DLF_logo.svg.png" height="50" width="50" alt="DLF Limited logo"/></a>
+📈 Current Work Experience : <a href="https://404" target="_blank"><img src="404" height="50" width="50" alt="Logo"/></a>
 
 👩‍🎓 Specialized in : 𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 & 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔 [⌛in progress] ● 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑴𝒐𝒅𝒆𝒍𝒍𝒊𝒏𝒈 & 𝑫𝒆𝒗𝑶𝒑𝒔 [✅completed]
 
