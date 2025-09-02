@@ -37,7 +37,7 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
   <img src="http://bit.ly/3HZAHgo" height="190" width="190" alt="GitHub Coffee">
 </p>
 
-# My Tech Tools <img src="https://bit.ly/40AYTeE" height="39" width="39"> :
+# My Tech Stack <img src="https://bit.ly/40AYTeE" height="39" width="39"> :
 🟦 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 & 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" width="20" alt="html5 logo"  />
 <img width="1" />
