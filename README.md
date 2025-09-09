@@ -3,9 +3,9 @@
 
 📈 Current Work Experience : 1+
 
-👩‍🎓 Specialized in : 𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 & 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔 [⌛in progress] |  𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑴𝒐𝒅𝒆𝒍𝒍𝒊𝒏𝒈 & 𝑫𝒆𝒗𝑶𝒑𝒔 ✅
+👩‍🎓 Specialized in : 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 & 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 [⌛in progress] |  𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐌𝐨𝐝𝐞𝐥𝐥𝐢𝐧𝐠 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 ✅
 
-🏅 Represented as : 𝑴𝒊𝒄𝒓𝒐𝒔𝒐𝒇𝒕 𝑳𝒆𝒂𝒓𝒏 𝑺𝒕𝒖𝒅𝒆𝒏𝒕 𝑨𝒎𝒃𝒂𝒔𝒔𝒂𝒅𝒐𝒓 - Level 𝐁𝐞𝐭𝐚 <a href="Link Unavailable at the moment"><img src="https://cdn-icons-png.flaticon.com/512/10183/10183567.png" alt="Reshma speaks" height="15" width="15"></a>
+🏅 Represented as : 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐋𝐞𝐚𝐫𝐧 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫 - Level 𝐁𝐞𝐭𝐚  <a href="Link Unavailable at the moment"><img src="https://cdn-icons-png.flaticon.com/512/10183/10183567.png" alt="Reshma speaks" height="15" width="15"></a>
 
 👩‍💻 Proficient in Data Science & Business Analytics, Full-stack Web Development, DevOps, UX Design & Cloud Computing. 
 
@@ -13,7 +13,7 @@
 
 📚 Currently Upskilling in : Data Analytics 2025 Edition, Machine Learning techniques, PHP Advanced Level
 
-🌐 𝐕𝐢𝐬𝐢𝐭 𝐦𝐲 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 : reshma/vercel or <a href="https://mail.google.com" target="_blank"><img src="https://cdn.brandfetch.io/id5o3EIREg/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1696475443284" height="15" width="15" alt="Gmail logo"  /></a> 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐯𝐢𝐚 𝐄𝐦𝐚𝐢𝐥 : reshmaoleti20@gmail.com 
+🌐 𝐕𝐢𝐬𝐢𝐭 𝐦𝐲 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 : reshma/vercel or 📧 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐯𝐢𝐚 𝐄𝐦𝐚𝐢𝐥 : reshmaoleti20@gmail.com 
 
 ### Click here <a href="https://stackoverflow.com/questions/ask?tags=reshma-oleti" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="25" width="25" alt="php logo"  /></a> to ask me about :
 Business Analytics using Power BI, Full Stack Web Development with React, DevOps Tools & Lifecyle, Principles of UX Design & Cloud Computing with AWS.
