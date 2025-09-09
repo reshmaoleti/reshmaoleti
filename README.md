@@ -3,7 +3,7 @@
 
 📈 Current Work Experience : 1+
 
-👩‍🎓 Specialized in : 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 & 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 [⌛in progress] |  𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐌𝐨𝐝𝐞𝐥𝐥𝐢𝐧𝐠 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 ✅
+👩‍🎓 Specialized in : 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 & 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 ⌛ |  𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐌𝐨𝐝𝐞𝐥𝐥𝐢𝐧𝐠 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 ✅
 
 🏅 Represented as : 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐋𝐞𝐚𝐫𝐧 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫 - Level 𝐁𝐞𝐭𝐚  <a href="Link Unavailable at the moment"><img src="https://cdn-icons-png.flaticon.com/512/10183/10183567.png" alt="Reshma speaks" height="15" width="15"></a>
 
