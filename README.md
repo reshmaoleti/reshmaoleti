@@ -13,7 +13,7 @@
 
 📚 Currently Upskilling in : Data Analytics 2025 Edition, Machine Learning techniques, PHP Advanced Level
 
-🌐 𝐕𝐢𝐬𝐢𝐭 𝐦𝐲 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 : reshma/vercel or 📧 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐯𝐢𝐚 𝐄𝐦𝐚𝐢𝐥 : reshmaoleti20@gmail.com 
+🌐 𝐕𝐢𝐬𝐢𝐭 𝐦𝐲 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 : reshma/vercel 𝐎𝐑 📧 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐯𝐢𝐚 𝐄𝐦𝐚𝐢𝐥 : reshmaoleti20@gmail.com 
 
 ### Click here <a href="https://stackoverflow.com/questions/ask?tags=reshma-oleti" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="25" width="25" alt="php logo"  /></a> to ask me about :
 Business Analytics using Power BI, Full Stack Web Development with React, DevOps Tools & Lifecyle, Principles of UX Design & Cloud Computing with AWS.
