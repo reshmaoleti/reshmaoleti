@@ -9,7 +9,7 @@
 
 👩‍💻 Proficient in : Data Science & Business Analytics, Full-stack Web Development, DevOps, UX Design & Cloud Computing. 
 
-💡 Skilled in leveraging Agile methodologies, Data Science practices through Visualization methods & Cloud deployment techniques to deliver high-quality software solutions, while optimizing innovative Design skills & Digital Marketing strategies for enhanced business outcomes. 
+💡 I'm Skilled in leveraging Agile methodologies, Data Science practices through Visualization methods & Cloud deployment techniques to deliver high-quality software solutions, while optimizing innovative Design skills & Digital Marketing strategies for enhanced business outcomes. 
 
 📚 Currently Upskilling in : Data Analytics 2025 Edition, Machine Learning techniques, PHP Advanced Level
 
