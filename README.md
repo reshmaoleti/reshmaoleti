@@ -7,7 +7,7 @@
 
 🏅 Represented as : 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐋𝐞𝐚𝐫𝐧 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫 - Level 𝐁𝐞𝐭𝐚  <a href="Link Unavailable at the moment"><img src="https://cdn-icons-png.flaticon.com/512/10183/10183567.png" alt="Reshma speaks" height="15" width="15"></a>
 
-👩‍💻 Proficient in Data Science & Business Analytics, Full-stack Web Development, DevOps, UX Design & Cloud Computing. 
+👩‍💻 Proficient in : Data Science & Business Analytics, Full-stack Web Development, DevOps, UX Design & Cloud Computing. 
 
 💡 Skilled in leveraging Agile methodologies, Data Science practices through Visualization methods & Cloud deployment techniques to deliver high-quality software solutions, while optimizing innovative Design skills & Digital Marketing strategies for enhanced business outcomes. 
 
