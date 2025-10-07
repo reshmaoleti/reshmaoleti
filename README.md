@@ -108,7 +108,7 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 <img width="1" />
 <img src="https://cdn.brandfetch.io/idW3VhiylC/w/820/h/442/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1752189694234" height="30" width="30" alt="scikit learn logo" />
 <img width="1" />
-<img src="https://cdn.brandfetch.io/idsWBrtc_i/theme/dark/idtAoLsWe7.svg?c=1bxid64Mup7aczewSAYMX&t=1759146036018" height="20" width="20" alt="microsoft excel 365 logo" />
+<img src="https://bit.ly/3VWVsgj" height="20" width="20" alt="microsoft excel logo" />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" height="20" width="20" alt="splunk logo"  />
 <img width="1" />
@@ -174,7 +174,7 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="20" width="20" alt="jira logo" />
 <img width="1" />
-<img src="https://cdn.brandfetch.io/idsWBrtc_i/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1721120556010" height="20" width="20" alt="Microsoft office 365 logo"  />
+<img src="https://cdn.brandfetch.io/idsWBrtc_i/theme/dark/idtAoLsWe7.svg?c=1bxid64Mup7aczewSAYMX&t=1759146036018" height="20" width="20" alt="Microsoft office 365 logo"  />
 <img width="1" />
 <img src="https://cdn.brandfetch.io/idU6lzwMYA/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1678376729733" height="20" width="20" alt="clickup logo"  />
 <img width="1" />
