@@ -98,7 +98,7 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" height="20" width="20" alt="anaconda logo" />
 <img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="20" width="20" alt="azure sql database logo" />
+<img src="https://cdn.brandfetch.io/idRKAFOKVG/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668070923110" height="20" width="20" alt="elastic elk logo" />
 <img width="1" />
 <img src="https://cdn.brandfetch.io/idSUrLOWbH/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668081624532" height="20" width="20" alt="databricks logo" />
 <img width="1" />
