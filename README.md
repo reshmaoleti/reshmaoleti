@@ -180,8 +180,6 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="20" width="20" alt="jira logo" />
 <img width="1" />
-<img src="https://cdn.brandfetch.io/idUmqKFgE3/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1743997736787" height="20" width="20" alt="capcut logo"  />
-<img width="1" />
 <img src="https://cdn.brandfetch.io/id6Pnd0bac/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1754270055192" height="20" width="20" alt="confluence logo"  />
 <img width="1" />
 <img src="https://cdn.brandfetch.io/idsWBrtc_i/theme/dark/idtAoLsWe7.svg?c=1bxid64Mup7aczewSAYMX&t=1759146036018" height="20" width="20" alt="Microsoft office 365 logo"  />
