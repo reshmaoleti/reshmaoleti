@@ -61,6 +61,8 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="20" width="20" alt="django logo" />
 <img width="1" />
+<img src="https://cdn.brandfetch.io/idD7RfhCFS/w/512/h/512/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1759109818920" height="20" width="20" alt="JUnit logo" />
+<img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" width="20" alt="react logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" width="20" alt="nodejs logo"  />
@@ -129,6 +131,8 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="20" width="20" alt="github actions logo" />
 <img width="1" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="20" width="20" alt="azure devops logo" />
+<img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="20" width="20" alt="amazonwebservices logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="20" width="20" alt="docker logo"  />
@@ -168,6 +172,8 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 <img width="1" />
 <img src="https://cdn.brandfetch.io/idWvz5T3V7/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1691142640809" height="20" width="20" alt="meta logo"  />
 <img width="1" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" height="20" width="20" alt="slack logo"  />
+<img width="1" />
 <img src="https://cdn.brandfetch.io/iddFGFHNcm/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1667580531176" height="20" width="20" alt="maze logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="20" width="20" alt="notion logo"  />
@@ -179,6 +185,8 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 <img src="https://cdn.brandfetch.io/id6Pnd0bac/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1754270055192" height="20" width="20" alt="confluence logo"  />
 <img width="1" />
 <img src="https://cdn.brandfetch.io/idsWBrtc_i/theme/dark/idtAoLsWe7.svg?c=1bxid64Mup7aczewSAYMX&t=1759146036018" height="20" width="20" alt="Microsoft office 365 logo"  />
+<img width="1" />
+<img src="https://cdn.brandfetch.io/idTwthq-iR/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1760463623429" height="20" width="20" alt="scrum alliance logo" />
 <img width="1" />
 <img src="https://cdn.brandfetch.io/idU6lzwMYA/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1678376729733" height="20" width="20" alt="clickup logo"  />
 <img width="1" />
