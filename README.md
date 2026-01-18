@@ -117,8 +117,6 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height="20" width="20" alt="anaconda logo" />
 
 🟥 𝐃𝐞𝐯𝐎𝐩𝐬, 𝐂𝐥𝐨𝐮𝐝 & 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 :
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="20" width="20" alt="ansible logo"  />
-<img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="20" width="20" alt="kubernetes logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="20" width="20" alt="selenium logo"  />
