@@ -41,7 +41,7 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 🟦 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 & 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" width="20" alt="html5 logo"  />
 <img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" width="20" alt="css3 logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="20" width="20" alt="tailwind css logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" width="20" alt="javascript logo" />
 <img width="1" />
@@ -49,17 +49,11 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" width="20" alt="python logo" />
 <img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" width="20" alt="core java logo" />
-<img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="20" width="20" alt="php logo" />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" height="20" width="20" alt="postman logo" />
 <img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="20" width="20" alt="spring logo" />
-<img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="20" width="20" alt="django logo" />
-<img width="1" />
-<img src="https://cdn.brandfetch.io/idD7RfhCFS/w/512/h/512/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1759109818920" height="20" width="20" alt="JUnit logo" />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" width="20" alt="react logo"  />
 <img width="1" />
@@ -77,7 +71,7 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="20" width="20" alt="intellij IDE logo"  />
 <img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="20" width="20" alt="bootstrap logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" height="20" width="20" alt="OAuth2 logo"  />
 
 🟩 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬, 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 & 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="20" width="20" alt="jupyter logo"  />
@@ -88,15 +82,11 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" height="20" width="20" alt="postgresql logo" />
 <img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" width="20" alt="mysql logo"  />
-<img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="20" width="20" alt="pytorch logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20" width="20" alt="mongodb logo"  />
 <img width="1" />
 <img src="https://cdn.brandfetch.io/id9sYMA_Im/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668082242510" height="20" width="20" alt="tableau logo"  />
-<img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="20" width="20" alt="tensorflow logo" />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" height="20" width="20" alt="apache logo" />
 <img width="1" />
