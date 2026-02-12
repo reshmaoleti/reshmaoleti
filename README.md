@@ -71,7 +71,7 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="20" width="20" alt="intellij IDE logo"  />
 <img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" height="20" width="20" alt="OAuth2 logo"  />
+<img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" height="20" width="20" alt="JWT logo"  />
 
 🟩 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬, 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 & 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="20" width="20" alt="jupyter logo"  />
