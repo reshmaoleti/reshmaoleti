@@ -117,11 +117,9 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="20" width="20" alt="prometheus logo"  />
 <img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="20" width="20" alt="azure logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="20" width="20" alt="microsoft azure logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="20" width="20" alt="github actions logo" />
-<img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="20" width="20" alt="azure devops logo" />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="20" width="20" alt="amazonwebservices logo"  />
 <img width="1" />
@@ -131,8 +129,6 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 <img width="1" />
 <img src="https://cdn.brandfetch.io/idIq_kF0rb/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1667565306852" height="20" width="20" alt="cypress.io logo"  />
 <img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="20" width="20" alt="grafana logo" />
-<img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="20" width="20" alt="gitlab logo" />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vault/vault-original.svg" height="20" width="20" alt="hashicorp vault logo" />
@@ -140,8 +136,6 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="20" width="20" alt="googlecloud logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20" width="20" alt="linux logo"  />
-<img width="1" />
-<img src="https://cdn.brandfetch.io/id3l3cK6e9/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1749850668642" height="20" width="20" alt="chef logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="20" width="20" alt="jenkins logo"  />
 <img width="1" />
@@ -169,8 +163,6 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="20" width="20" alt="notion logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="20" width="20" alt="jira logo" />
-<img width="1" />
-<img src="https://cdn.brandfetch.io/id6Pnd0bac/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1754270055192" height="20" width="20" alt="confluence logo"  />
 <img width="1" />
 <img src="https://cdn.brandfetch.io/idsWBrtc_i/theme/dark/idtAoLsWe7.svg?c=1bxid64Mup7aczewSAYMX&t=1759146036018" height="20" width="20" alt="Microsoft office 365 logo"  />
 <img width="1" />
