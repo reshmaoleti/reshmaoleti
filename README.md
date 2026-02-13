@@ -11,7 +11,7 @@
 
 💡 I'm Skilled at leveraging Agile project methodologies, Data Science practices through Visualization methods & DevOps in addition to Cloud deployment techniques to deliver high-quality software solutions, Adept in utilizing Web Development principles for building scalable full-stack applications while optimizing innovative Design skills & Digital Marketing strategies for enhanced business outcomes. 
 
-📚 Currently Upskilling in : Data Analytics 2026 Edition, Machine Learning techniques, PHP Advanced Level
+📚 Currently Upskilling in : Data Analytics 2026 Edition, Machine Learning techniques, Tailwind CSS Advanced Level
 
 🌐 𝐕𝐢𝐬𝐢𝐭 𝐦𝐲 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 : reshmaoleti.com/vercel 𝐎𝐑 📧 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐯𝐢𝐚 𝐄𝐦𝐚𝐢𝐥 : reshmaoleti@gmail.com 
 
