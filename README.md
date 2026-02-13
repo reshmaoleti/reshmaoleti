@@ -41,6 +41,8 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 🟦 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 & 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" width="20" alt="html5 logo"  />
 <img width="1" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="20" width="20" alt="css3 logo"  />
+<img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="20" width="20" alt="tailwind css logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" width="20" alt="javascript logo" />
@@ -48,8 +50,6 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" height="20" width="20" alt="R programming logo" />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" width="20" alt="python logo" />
-<img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="20" width="20" alt="php logo" />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" height="20" width="20" alt="postman logo" />
 <img width="1" />
@@ -90,9 +90,9 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" height="20" width="20" alt="apache logo" />
 <img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" height="20" width="20" alt="anaconda logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" height="20" width="20" alt="apache spark logo" />
 <img width="1" />
-<img src="https://cdn.brandfetch.io/idRKAFOKVG/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668070923110" height="20" width="20" alt="elastic elk logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="20" width="20" alt="matplotlib logo" />
 <img width="1" />
 <img src="https://cdn.brandfetch.io/idSUrLOWbH/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668081624532" height="20" width="20" alt="databricks logo" />
 <img width="1" />
