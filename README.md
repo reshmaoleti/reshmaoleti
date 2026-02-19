@@ -55,6 +55,8 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="20" width="20" alt="django logo" />
 <img width="1" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" height="20" width="20" alt="fastapi logo"  />
+<img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" width="20" alt="react logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" width="20" alt="nodejs logo"  />
