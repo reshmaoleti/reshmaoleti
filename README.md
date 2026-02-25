@@ -30,6 +30,7 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
  
 # My Github Stats <img src="https://bit.ly/40zI6IF" height="33" width="33">  :
 <div> <a href="https://github.com/reshmaoleti" target="_blank"><img src="https://img.icons8.com/?size=512&id=52539&format=png" height="40" width="40" alt="GitHub" target="_blank"></a>
+<a href="https://github.com/reshmaoleti" target="_blank"><img src="https://bit.ly/3OC0Y7C" height="60" width="60" alt="New Project Update" target="_blank"></a>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reshmaoleti&layout=compact&theme=transparent" alt=reshmaoleti />
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=reshmaoleti&show_icons=true&locale=en&theme=transparent" alt="reshmaoleti" /></p>
 <p align="left">
