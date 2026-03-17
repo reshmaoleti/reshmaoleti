@@ -64,6 +64,8 @@ Business Analytics using Power BI, Full Stack Web Development with React, DevOps
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" width="20" alt="nodejs logo"  />
 <img width="1" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="20" width="20" alt="bootstrap logo"  />
+<img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="20" width="20" alt="pycharm logo" />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" width="20" alt="vscode logo"  />
