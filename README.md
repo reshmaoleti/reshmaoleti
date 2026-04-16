@@ -1,4 +1,4 @@
-# Hi, I'm Reshma Oleti <img src="http://bit.ly/4kceKrR" width="40" align="center" alt="Reshma speaks"/><a href="https://komarev.com/ghpvc/?username=reshmaoleti"><img align="right" src="https://komarev.com/ghpvc/?username=reshmaoleti&label=Visitors&color=87CEEB&style=square" alt="Profile visitor" /></a>
+# Hi, I'm Reshma oleti <img src="http://bit.ly/4kceKrR" width="40" align="center" alt="Reshma speaks"/><a href="https://komarev.com/ghpvc/?username=reshmaoleti"><img align="right" src="https://komarev.com/ghpvc/?username=reshmaoleti&label=Visitors&color=87CEEB&style=square" alt="Profile visitor" /></a>
 
 ## BTech Graduate in Computer Science & Engineering from : <a href="https://www.kluniversity.in"><img src="https://upload.wikimedia.org/wikipedia/en/7/78/KL_University_logo.svg" width="80" alt="KL University logo"/></a>
 
