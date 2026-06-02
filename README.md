@@ -2,7 +2,7 @@
 
 ## BTech Graduate in Computer Science & Engineering from : <a href="https://www.kluniversity.in"><img src="https://upload.wikimedia.org/wikipedia/en/7/78/KL_University_logo.svg" width="80" alt="KL University logo"/></a>
 
-📈 Recent Work Experience : 1+
+📈 Recent Work Experience : 1+ as Python Developer | ✅ 𝐔𝐬𝐞𝐫 𝐀𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐞𝐝 𝐛𝐲 <a href="https://komarev.com/ghpvc/?username=reshmaoleti"><img src="https://theorg.com/_next/static/media/share_image.4dbc4804.png" width="40" align="center" alt="Reshma speaks"/></a>
 
 👩🏻‍🎓 Specialized in : 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 & 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 (2025 - Present) ⌛|  𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐌𝐨𝐝𝐞𝐥𝐥𝐢𝐧𝐠 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 (2019 - 2023) ✅
 
@@ -15,8 +15,6 @@
 📚 Currently Upskilling in : Data Analytics 2026 Edition, Machine Learning techniques, Tailwind CSS Advanced Level
 
 🌐 𝐕𝐢𝐬𝐢𝐭 𝐦𝐲 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 : reshmaoleti.com/vercel 𝐎𝐑 📧 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐯𝐢𝐚 𝐄𝐦𝐚𝐢𝐥 : reshmaoleti20@gmail.com 
-
-✅ 𝐔𝐬𝐞𝐫 𝐀𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐞𝐝 𝐛𝐲 <a href="https://komarev.com/ghpvc/?username=reshmaoleti"><img src="https://theorg.com/_next/static/media/share_image.4dbc4804.png" width="40" align="center" alt="Reshma speaks"/></a>
 
 ## Click here <a href="https://stackoverflow.com/questions/ask?tags=reshma-oleti" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="30" alt="stack overflow logo"  /></a> to ask me about or <a href="https://calendly.com/reshmaoleti/30min" target="blank"><img src="https://calendlycms.com/api/media/file/10120429791383-1771966594795.jpg" width="100" alt="calendely logo"  /></a> :
 🔵 Python Full Stack Development with React. 🟢 Business Analytics using Power BI. 🔴 DevOps Tools & Lifecyle. 
