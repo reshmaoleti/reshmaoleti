@@ -1,5 +1,5 @@
 <!--Banner-->
-![reshmaoleti Banner Image](./reshmabanner.png)
+![reshmaoleti Banner Image](./reshmaoletibanner.png)
 
 # I'm Reshma oleti <img src="http://bit.ly/4kceKrR" width="40" align="center" alt="Reshma speaks"/><a href="https://komarev.com/ghpvc/?username=reshmaoleti"><img align="right" src="https://komarev.com/ghpvc/?username=reshmaoleti&label=Visitors&color=87CEEB&style=square" alt="Profile visitor" /></a>
 
