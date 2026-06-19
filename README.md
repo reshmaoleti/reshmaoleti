@@ -1,11 +1,11 @@
 <!--Banner-->
 ![reshmaoleti Banner Image](./reshmaoletibanner.png)
 
-# I'm Reshma oleti <img src="http://bit.ly/4kceKrR" width="40" align="center" alt="Reshma speaks"/><a href="https://komarev.com/ghpvc/?username=reshmaoleti"><img align="right" src="https://komarev.com/ghpvc/?username=reshmaoleti&label=Profile%20views&color=0e75b6&style=square" alt="reshmaoleti" alt="Profile visitor" /></a>
+# I'm Reshma oleti <img src="http://bit.ly/4kceKrR" width="40" align="center" alt="Reshma speaks"/><a href="https://komarev.com/ghpvc/?username=reshmaoleti"><img align="right" src="https://komarev.com/ghpvc/?username=reshmaoleti&label=Profile%20views&color=00BFFF&style=square" alt="reshmaoleti" alt="Profile visitor" /></a><a href="https://komarev.com/ghpvc/?username=reshmaoleti"><img align="right" src="https://cdn.theorg.com/5c2d6917-33e7-4c38-82da-56a9754faee1_thumb.jpg" width="20" alt="The ORG" /></a>
 
 ## BTech Graduate in Computer Science & Engineering from : <a href="https://www.kluniversity.in"><img src="https://upload.wikimedia.org/wikipedia/en/7/78/KL_University_logo.svg" width="65" alt="KL University logo"/></a>
 
-📈 Recent Work Experience : 1+ as Python Developer | ✅ 𝐔𝐬𝐞𝐫 𝐀𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐞𝐝 𝐛𝐲 <a href="https://komarev.com/ghpvc/?username=reshmaoleti"><img src="https://theorg.com/_next/static/media/share_image.4dbc4804.png" width="35" align="center" alt="Reshma speaks"/></a>
+📈 Recent Work Experience : 1+ as Python Developer
 
 👩🏻‍🎓 Specialized in : 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 & 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 (2025 - Present) ⌛|  𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐌𝐨𝐝𝐞𝐥𝐥𝐢𝐧𝐠 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 (2019 - 2023) ✅
 
