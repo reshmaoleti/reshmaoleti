@@ -1,5 +1,5 @@
 <!--Banner-->
-![reshmaoleti Banner Image](./reshmaoletibanner.png)
+![reshmaoleti Banner Image](./reshmaoleti banner.png)
 
 # I'm Reshma oleti <img src="http://bit.ly/4kceKrR" width="40" align="center" alt="Reshma speaks"/><a href="https://komarev.com/ghpvc/?username=reshmaoleti"><img align="right" src="https://komarev.com/ghpvc/?username=reshmaoleti&label=Profile%20views&color=00BFFF&style=square" alt="reshmaoleti" alt="Profile visitor" /></a><a href="https://peerlist.io/reshmaoleti"><img align="right" src="https://peerlist.io/favicon_512.png" width="20" alt="Peerlist" /></a><a href="https://komarev.com/ghpvc/?username=reshmaoleti"><img align="right" src="https://cdn.theorg.com/5c2d6917-33e7-4c38-82da-56a9754faee1_thumb.jpg" width="20" alt="The ORG" /></a>
 
