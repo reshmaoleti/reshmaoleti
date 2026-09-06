@@ -1,7 +1,7 @@
 <!--Banner-->
 ![reshmaoleti Banner Image](./reshmaoletigithubbanner.png)
 
-# I'm Reshma oleti <img src="http://bit.ly/4kceKrR" width="40" align="center" alt="Reshma speaks"/><a href="https://komarev.com/ghpvc/?username=reshmaoleti"><img align="right" src="https://komarev.com/ghpvc/?username=reshmaoleti&label=Profile%20views&color=00BFFF&style=square" alt="reshmaoleti" alt="Profile visitor" /></a><a href="https://peerlist.io/reshmaoleti"><img align="right" src="https://peerlist.io/favicon_512.png" width="20" alt="Peerlist" /></a><a href="https://komarev.com/ghpvc/?username=reshmaoleti"><img align="right" src="https://cdn.theorg.com/5c2d6917-33e7-4c38-82da-56a9754faee1_thumb.jpg" width="20" alt="The ORG" /></a>
+<a href="https://komarev.com/ghpvc/?username=reshmaoleti"><img align="right" src="https://komarev.com/ghpvc/?username=reshmaoleti&label=Profile%20views&color=800080&style=square" alt="reshmaoleti" alt="Profile visitor" /></a><a href="https://peerlist.io/reshmaoleti"><img align="right" src="https://peerlist.io/favicon_512.png" width="20" alt="Peerlist" /></a><a href="https://komarev.com/ghpvc/?username=reshmaoleti"><img align="right" src="https://cdn.theorg.com/5c2d6917-33e7-4c38-82da-56a9754faee1_thumb.jpg" width="20" alt="The ORG" /></a>
 
 ## BTech Graduate in Computer Science & Engineering from : <a href="https://www.kluniversity.in"><img src="https://upload.wikimedia.org/wikipedia/en/7/78/KL_University_logo.svg" width="65" alt="KL University logo"/></a>
 
@@ -24,9 +24,9 @@
 
 🟣 Principles of UX Design. 🟡 Cloud Computing with AWS.
 
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/53ca8b66027827.5b0801e2d4de2.gif)](https://github.com/reshmaoleti)
+[![MasterHead](https://share.gemini.google/zhC1RksfFqYk)](https://github.com/reshmaoleti)
 
-# I'm Globally Certified as <img src="http://bit.ly/4lo1CAM" width="35"> : 
+# I'm Globally Certified as <img src="https://github.com/user-attachments/assets/33957f11-290c-4504-82a9-00cc5a041411" width="28"> :
 <div align="left">
 <a href="https://www.credly.com/badges/446a7263-74eb-4ce4-a166-12203149aca2/public_url" target="blank"><img src="https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/twitter_thumb_201604_image.png" width="105" alt="Google Cloud logo"  /></a>
 <a href="https://www.credly.com/badges/61916b3d-0a46-457e-b7d1-0bedf91d4a6a/public_url" target="blank"><img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/twitter_thumb_201604_image.png" width="105" alt="AWS Cloud logo"  /></a>
@@ -34,17 +34,17 @@
 <a href="https://www.credly.com/badges/dfe28ced-2a30-4ba0-8f8f-85d0974f4312/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/e3c001fd-161d-433a-a7a4-049556d6112d/blob" width="105" alt="Aviatrix logo"  /></a>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=91E17D8E5191E2FF3BB004E64360C350FB36C86A17B35287B9E33D13CE222094" target="_blank"><img src="https://images.credly.com/images/697cf123-74b0-4356-9055-9973471d26d6/03_Oracle_Cloud_Infrastructure_Foundations_Associate.png" width="105" alt="Oracle Cloud logo"  /></a>
  
-# My Github Stats <img src="https://bit.ly/40zI6IF" width="33">  :
+# My Github Stats <img src="https://github.com/user-attachments/assets/c583870f-097a-451e-9d86-59d3def4d679" width="35">  :
 <div> <a href="https://github.com/reshmaoleti" target="_blank"><img src="https://img.icons8.com/?size=512&id=52539&format=png" width="40" alt="GitHub" target="_blank"></a>
 <a href="https://github.com/reshmaoleti" target="_blank"><img src="https://bit.ly/3OC0Y7C" width="60" alt="New Project Update" target="_blank"></a>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reshmaoleti&layout=compact&theme=transparent" alt=reshmaoleti />
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=reshmaoleti&show_icons=true&locale=en&theme=transparent" alt="reshmaoleti" /></p>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=reshmaoleti&theme=transparent" height="190em" alt="reshmaoleti" style="padding-right: 10px;">
-  <img src="http://bit.ly/3HZAHgo" width="190" alt="GitHub Coffee">
+  <img src="https://media.giphy.com/media/1bNudJqrpQXbLDK8lM/giphy.gif?cid=790b7611d99c96258d5d46fae8b3d0e81218dc8792ada097&ep=v1_user_favorites&rid=giphy.gif&ct=s" width="180" alt="GitHub Coffee">
 </p>
  
-# My Tech Tools <img src="https://bit.ly/40AYTeE" width="39"> :
+# My Tech Tools <img src="https://github.com/user-attachments/assets/a43a8020-a7c3-4839-9b26-58494eb0704e" width="35"> :
 🟦 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 & 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" alt="html5 logo"  />
 <img width="1" />
@@ -182,7 +182,7 @@
 <img src="https://cdn.brandfetch.io/idunI7Cam3/w/1024/h/1024/theme/dark/idvZ5-klGz.png?c=1bxid64Mup7aczewSAYMX&t=1749820779508" width="20" alt="picsart logo"  />
 </div>
 
-# Connect with me on <img src="http://bit.ly/4eExjDX" width="28"> : 
+# Connect with me on <img src="https://github.com/user-attachments/assets/9e938b5a-2362-47ef-b70f-84177d87f18b" width="28"> : 
 <p align="left"><a href="https://linkedin.com/in/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Linkedin Logo" width="40" /><img width="3" /></a> <img width="3" /><a href="https://facebook.com/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Facebook Logo" width="40" /><img width="3" /></a> <img width="3" /><a href="https://leetcode.com/u/reshmaoleti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" alt="Leetcode logo" width="40" /><img width="3" /></a><img width="3" /><a href="https://kaggle.com/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="Kaggle logo" width="40" /><img width="3" /></a><a href="https://www.behance.net/reshmaoleti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg" alt="Behance logo" width="40" /><img width="3" /></a> <img width="3" />
 <a href="https://buymeacoffee.com/reshmaoleti" target="blank"><img align="right" src="https://codehim.com/wp-content/uploads/2022/09/bmc-button-640x180.png" alt="reshmaoleti" width="140" alt="Buy me a Coffee logo"/></a></p> 
 <p align="center"><img src="https://bit.ly/4c0p04T" alt="Image" width="300" /></p>
