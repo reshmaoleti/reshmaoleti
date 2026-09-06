@@ -41,7 +41,7 @@
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=reshmaoleti&show_icons=true&locale=en&theme=transparent" alt="reshmaoleti" /></p>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=reshmaoleti&theme=transparent" height="190em" alt="reshmaoleti" style="padding-right: 10px;">
-  <img src="https://media.giphy.com/media/1bNudJqrpQXbLDK8lM/giphy.gif?cid=790b7611d99c96258d5d46fae8b3d0e81218dc8792ada097&ep=v1_user_favorites&rid=giphy.gif&ct=s" width="180" alt="GitHub Coffee">
+  <img src="https://media.giphy.com/media/mLGMXIiGUgYYlOBDVS/giphy.gif?cid=ecf05e47943c5656b5250a276a47314eba704010e314c726&ep=v1_user_favorites&rid=giphy.gif&ct=s" width="180" alt="GitHub Coffee">
 </p>
  
 # My Tech Tools <img src="https://github.com/user-attachments/assets/a43a8020-a7c3-4839-9b26-58494eb0704e" width="35"> :
@@ -185,4 +185,4 @@
 # Connect with me on <img src="https://github.com/user-attachments/assets/9e938b5a-2362-47ef-b70f-84177d87f18b" width="28"> : 
 <p align="left"><a href="https://linkedin.com/in/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Linkedin Logo" width="40" /><img width="3" /></a> <img width="3" /><a href="https://facebook.com/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Facebook Logo" width="40" /><img width="3" /></a> <img width="3" /><a href="https://leetcode.com/u/reshmaoleti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" alt="Leetcode logo" width="40" /><img width="3" /></a><img width="3" /><a href="https://kaggle.com/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="Kaggle logo" width="40" /><img width="3" /></a><a href="https://www.behance.net/reshmaoleti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg" alt="Behance logo" width="40" /><img width="3" /></a> <img width="3" />
 <a href="https://buymeacoffee.com/reshmaoleti" target="blank"><img align="right" src="https://codehim.com/wp-content/uploads/2022/09/bmc-button-640x180.png" alt="reshmaoleti" width="140" alt="Buy me a Coffee logo"/></a></p> 
-<p align="center"><img src="https://bit.ly/4c0p04T" alt="Image" width="300" /></p>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWRuMGJvZTdlY3FmNGh1bmppMHM3MXdodHhhbnEyMTRtaXM5ZG5zcCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NiSqAj7CvnvTKrfCpK/giphy.gif" alt="Image" width="250" /></p>
