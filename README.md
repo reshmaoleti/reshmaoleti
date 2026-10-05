@@ -1,13 +1,24 @@
 <!--Banner-->
 ![reshmaoleti Banner Image](./reshmaoletigithubbanner.png)
 
-<a href="https://komarev.com/ghpvc/?username=reshmaoleti"><img align="right" src="https://komarev.com/ghpvc/?username=reshmaoleti&label=Profile%20views&color=800080&style=square" alt="reshmaoleti" alt="Profile visitor" /></a><a href="https://peerlist.io/reshmaoleti"><img align="right" src="https://peerlist.io/favicon_512.png" width="20" alt="Peerlist" /></a><a href="https://komarev.com/ghpvc/?username=reshmaoleti"><img align="right" src="https://cdn.theorg.com/5c2d6917-33e7-4c38-82da-56a9754faee1_thumb.jpg" width="20" alt="The ORG" /></a>
+<p align="center"/>
+  <a href="https://reshmaoleti.com/vercel" target="blank"/>
+    <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-5B2A86?style=for-the-badge&labelColor=5B2A86" alt="View My Portfolio"/></a>
+ <img width="10" />
+  <a href="Reshma_Resume_Link" target="blank">
+    <img src="https://img.shields.io/badge/📄%20Download%20My%20Resume-191970?style=for-the-badge&labelColor=191970" alt="Download My Resume"/></a>
+  <img width="10" />
+  <a href="GMAIL:reshmaoleti20@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Send%20A%20Mail-D90166?style=for-the-badge&labelColor=D90166" alt="Send a Mail"/></a>
+  <img width="10" />
+  <a href="https://komarev.com/ghpvc/?username=reshmaoleti"><img src="https://komarev.com/ghpvc/?username=reshmaoleti&badge&label=Profile%20views&color=800080&style=for-the-badge&labelColor=D90166"" alt="reshmaoleti" alt="Profile visitor" /></a>
+</p>
 
-## BTech Graduate in Computer Science & Engineering from : <a href="https://www.kluniversity.in"><img src="https://upload.wikimedia.org/wikipedia/en/7/78/KL_University_logo.svg" width="65" alt="KL University logo"/></a>
+## <p align="center"> Graduated in Computer Science & Engineering from : <a href="https://www.kluniversity.in"><img src="https://upload.wikimedia.org/wikipedia/en/7/78/KL_University_logo.svg" width="65" alt="KL University logo"/></a>
 
 📈 Recent Work Experience : 1+ as Python Developer
 
-👩🏻‍🎓 Specialized in : 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 & 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 (2025 - Present) ⌛|  𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐌𝐨𝐝𝐞𝐥𝐥𝐢𝐧𝐠 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 (2019 - 2023) ✅
+👩🏻‍🎓 Specialized in : 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐌𝐨𝐝𝐞𝐥𝐥𝐢𝐧𝐠 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 (2019 - 2023) ✅
 
 🏅 Represented as : 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐋𝐞𝐚𝐫𝐧 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫 - Level 𝐁𝐞𝐭𝐚  <a href="Link Unavailable at the moment"><img src="https://cdn-icons-png.flaticon.com/512/10183/10183567.png" alt="Student Ambassador" width="15"></a>
 
@@ -16,9 +27,6 @@
 💡 I'm Skilled at leveraging Agile project methodologies, Data Science practices through Visualization methods & DevOps in addition to Cloud deployment techniques to deliver high-quality software solutions, Adept in utilizing Web Development principles for building scalable full-stack applications while optimizing innovative Design skills & Digital Marketing strategies for enhanced business outcomes. 
 
 📚 Currently Upskilling in : Data Analytics 2026 Edition, Machine Learning techniques, Tailwind CSS Advanced Level
-
-🌐 𝐕𝐢𝐬𝐢𝐭 𝐦𝐲 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 : reshmaoleti.com/vercel 𝐎𝐑 📧 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐯𝐢𝐚 𝐄𝐦𝐚𝐢𝐥 : reshmaoleti20@gmail.com 
-
 ## Click here <a href="https://stackoverflow.com/questions/ask?tags=reshma-oleti" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="30" alt="stack overflow logo"  /></a> to ask me about or <a href="https://calendly.com/reshmaoleti/30min" target="blank"><img src="https://calendlycms.com/api/media/file/10120429791383-1771966594795.jpg" width="100" alt="calendely logo"  /></a> :
 🔵 Python Full Stack Development with React. 🟢 Business Analytics using Power BI. 🔴 DevOps Tools & Lifecyle. 
 
@@ -186,3 +194,5 @@
 <p align="left"><a href="https://linkedin.com/in/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Linkedin Logo" width="40" /><img width="3" /></a> <img width="3" /><a href="https://facebook.com/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Facebook Logo" width="40" /><img width="3" /></a> <img width="3" /><a href="https://leetcode.com/u/reshmaoleti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" alt="Leetcode logo" width="40" /><img width="3" /></a><img width="3" /><a href="https://kaggle.com/reshmaoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="Kaggle logo" width="40" /><img width="3" /></a><a href="https://www.behance.net/reshmaoleti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg" alt="Behance logo" width="40" /><img width="3" /></a> <img width="3" />
 <a href="https://buymeacoffee.com/reshmaoleti" target="blank"><img align="right" src="https://codehim.com/wp-content/uploads/2022/09/bmc-button-640x180.png" alt="reshmaoleti" width="140" alt="Buy me a Coffee logo"/></a></p> 
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWRuMGJvZTdlY3FmNGh1bmppMHM3MXdodHhhbnEyMTRtaXM5ZG5zcCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NiSqAj7CvnvTKrfCpK/giphy.gif" alt="Image" width="250" /></p>
+
+### <p align="center"> Documented by : <a href="https://peerlist.io/reshmaoleti"><img src="https://peerlist.io/favicon_512.png" width="20" alt="Peerlist" /></a><img width="10" /><a href="https://komarev.com/ghpvc/?username=reshmaoleti"><img src="https://cdn.theorg.com/5c2d6917-33e7-4c38-82da-56a9754faee1_thumb.jpg" width="20" alt="The ORG" /></a>
