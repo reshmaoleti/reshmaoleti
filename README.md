@@ -1,6 +1,5 @@
 <!--Banner-->
 ![reshmaoleti Banner Image](./reshmaoletigithubbanner.png)
-
 <p align="center"/>
   <a href="https://reshmaoleti.com/vercel" target="blank"/>
     <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-5B2A86?style=for-the-badge&labelColor=5B2A86" alt="View My Portfolio"/></a>
@@ -14,7 +13,7 @@
   <a href="https://komarev.com/ghpvc/?username=reshmaoleti"><img src="https://komarev.com/ghpvc/?username=reshmaoleti&badge&label=Profile%20views&color=800080&style=for-the-badge&labelColor=D90166"" alt="reshmaoleti" alt="Profile visitor" /></a>
 </p>
 
-## <p align="center"> Graduated in Computer Science & Engineering from : <a href="https://www.kluniversity.in"><img src="https://upload.wikimedia.org/wikipedia/en/7/78/KL_University_logo.svg" width="65" alt="KL University logo"/></a>
+## <p align="center"> Graduated in Computer Science & Engineering from : <a href="https://www.kluniversity.in"><img src="https://upload.wikimedia.org/wikipedia/en/7/78/KL_University_logo.svg" width="70" alt="KL University logo"/></a>
 
 📈 Recent Work Experience : 1+ as Python Developer
 
@@ -195,4 +194,4 @@
 <a href="https://buymeacoffee.com/reshmaoleti" target="blank"><img align="right" src="https://codehim.com/wp-content/uploads/2022/09/bmc-button-640x180.png" alt="reshmaoleti" width="140" alt="Buy me a Coffee logo"/></a></p> 
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWRuMGJvZTdlY3FmNGh1bmppMHM3MXdodHhhbnEyMTRtaXM5ZG5zcCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NiSqAj7CvnvTKrfCpK/giphy.gif" alt="Image" width="250" /></p>
 
-### <p align="center"> Documented by : <a href="https://peerlist.io/reshmaoleti"><img src="https://peerlist.io/favicon_512.png" width="20" alt="Peerlist" /></a><img width="10" /><a href="https://komarev.com/ghpvc/?username=reshmaoleti"><img src="https://cdn.theorg.com/5c2d6917-33e7-4c38-82da-56a9754faee1_thumb.jpg" width="20" alt="The ORG" /></a>
+#### <p align="center"> Documented by : <a href="https://peerlist.io/reshmaoleti"><img src="https://peerlist.io/favicon_512.png" width="20" alt="Peerlist" /></a><img width="10" /><a href="https://komarev.com/ghpvc/?username=reshmaoleti"><img src="https://cdn.theorg.com/5c2d6917-33e7-4c38-82da-56a9754faee1_thumb.jpg" width="20" alt="The ORG" /></a>
