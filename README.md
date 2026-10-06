@@ -17,7 +17,7 @@
 
 📚 Currently Upskilling in : Data Analytics 2026 Edition, Machine Learning techniques, Tailwind CSS Advanced Level
 ## Ask me on <a href="https://stackoverflow.com/questions/ask?tags=reshma-oleti" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="30" alt="stack overflow logo"  /></a> or <a href="https://calendly.com/reshmaoleti/30min" target="blank"><img src="https://calendlycms.com/api/media/file/10120429791383-1771966594795.jpg" width="110" alt="calendely logo"  /></a> :
-<img align="right" src="https://media.giphy.com/media/QrpVwPDGmJEIvHwKEc/giphy.gif?cid=790b761113433d9c302d9fdc348eddccc4ef1de8d5a26d7a&ep=v1_user_favorites&rid=giphy.gif&ct=s" width="70" alt="Work Check list">
+<img align="right" src="https://media.giphy.com/media/Km2CZL48ZX2W1QJBLm/giphy.gif?cid=790b761133a8ae2c3ee3ad662cb7ea16393d19072a147263&ep=v1_user_favorites&rid=giphy.gif&ct=s" width="70" alt="Work Check list">
 
 | 🔵 **Python Full Stack** | 🟢 **Business Analytics** | 🔴 **DevOps** | 🟣 **UX Design** | 🟡 **Cloud Computing** |
 | :--- | :--- | :--- | :--- | :--- |
