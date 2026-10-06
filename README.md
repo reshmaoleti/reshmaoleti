@@ -1,5 +1,5 @@
 <!--Banner-->
-![reshmaoleti Banner Image](./reshmaoletigithubbanner.png)
+![reshmaoleti Banner ](./reshmaoletibanner.mp4)
 <p align="center"/> <a href="https://reshmaoleti.com/vercel" target="blank"/> <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-5B2A86?style=for-the-badge&labelColor=5B2A86" alt="View My Portfolio"/></a> <img width="10" /> <a href="Reshma_Resume_Link" target="blank"> <img src="https://img.shields.io/badge/📄%20Download%20My%20Resume-191970?style=for-the-badge&labelColor=191970" alt="Download My Resume"/></a> <img width="10" /> <a href="GMAIL:reshmaoleti20@gmail.com"> <img src="https://img.shields.io/badge/📧%20Send%20A%20Mail-D90166?style=for-the-badge&labelColor=D90166" alt="Send a Mail"/></a> <img width="10" /> <a href="https://komarev.com/ghpvc/?username=reshmaoleti"><img src="https://komarev.com/ghpvc/?username=reshmaoleti&badge&label=Profile%20Visitors&color=800080&style=for-the-badge&labelColor=D90166"" alt="reshmaoleti" alt="Profile visitor" /></a> </p>
 
 ## <p align="center"> Graduated in Computer Science & Engineering from : <a href="https://www.kluniversity.in"><img src="https://upload.wikimedia.org/wikipedia/en/7/78/KL_University_logo.svg" width="70" alt="KL University logo"/></a>
