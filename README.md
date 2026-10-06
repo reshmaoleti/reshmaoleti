@@ -21,7 +21,7 @@
 | 🔵 **Python Full Stack** | 🟢 **Business Analytics** | 🔴 **DevOps** | 🟣 **UX Design** | 🟡 **Cloud Computing** |
 | :--- | :--- | :--- | :--- | :--- |
 | Development with React | Using Power BI | Tools & Lifecycle | Figma Principles | With AWS |
-# I'm Globally Certified as <img src="https://github.com/user-attachments/assets/33957f11-290c-4504-82a9-00cc5a041411" width="28"> :
+# My Certifications <img src="https://github.com/user-attachments/assets/33957f11-290c-4504-82a9-00cc5a041411" width="28"> :
 <div align="left">
 <a href="https://www.credly.com/badges/446a7263-74eb-4ce4-a166-12203149aca2/public_url" target="blank"><img src="https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/twitter_thumb_201604_image.png" width="105" alt="Google Cloud logo"  /></a>
 <a href="https://www.credly.com/badges/61916b3d-0a46-457e-b7d1-0bedf91d4a6a/public_url" target="blank"><img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/twitter_thumb_201604_image.png" width="105" alt="AWS Cloud logo"  /></a>
@@ -39,7 +39,7 @@
   <img src="https://media.giphy.com/media/mLGMXIiGUgYYlOBDVS/giphy.gif?cid=ecf05e47943c5656b5250a276a47314eba704010e314c726&ep=v1_user_favorites&rid=giphy.gif&ct=s" width="180" alt="GitHub Coffee">
 </p>
  
-# My Tech Tools <img src="https://github.com/user-attachments/assets/a43a8020-a7c3-4839-9b26-58494eb0704e" width="35"> :
+# My Tech Stack <img src="https://github.com/user-attachments/assets/a43a8020-a7c3-4839-9b26-58494eb0704e" width="35"> :
 🟦 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 & 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" alt="html5 logo"  />
 <img width="1" />
