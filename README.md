@@ -15,13 +15,12 @@
 💡 I'm Skilled at leveraging Agile project methodologies, Data Science practices through Visualization methods & DevOps in addition to Cloud deployment techniques to deliver high-quality software solutions, Adept in utilizing Web Development principles for building scalable full-stack applications while optimizing innovative Design skills & Digital Marketing strategies for enhanced business outcomes. 
 
 📚 Currently Upskilling in : Data Analytics 2026 Edition, Machine Learning techniques, Tailwind CSS Advanced Level
-## Click here <a href="https://stackoverflow.com/questions/ask?tags=reshma-oleti" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="30" alt="stack overflow logo"  /></a> to ask me about or <a href="https://calendly.com/reshmaoleti/30min" target="blank"><img src="https://calendlycms.com/api/media/file/10120429791383-1771966594795.jpg" width="100" alt="calendely logo"  /></a> :
-🔵 Python Full Stack Development with React. 🟢 Business Analytics using Power BI. 🔴 DevOps Tools & Lifecyle. 
+## Ask me on <a href="https://stackoverflow.com/questions/ask?tags=reshma-oleti" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="30" alt="stack overflow logo"  /></a> or <a href="https://calendly.com/reshmaoleti/30min" target="blank"><img src="https://calendlycms.com/api/media/file/10120429791383-1771966594795.jpg" width="110" alt="calendely logo"  /></a> :
+<img align="right" src="https://media.giphy.com/media/QrpVwPDGmJEIvHwKEc/giphy.gif?cid=790b761113433d9c302d9fdc348eddccc4ef1de8d5a26d7a&ep=v1_user_favorites&rid=giphy.gif&ct=s" width="80" alt="Work Check list">
 
-🟣 Principles of UX Design. 🟡 Cloud Computing with AWS.
-
-[![MasterHead](https://share.gemini.google/zhC1RksfFqYk)](https://github.com/reshmaoleti)
-
+| 🔵 **Python Full Stack** | 🟢 **Business Analytics** | 🔴 **DevOps** | 🟣 **UX Design** | 🟡 **Cloud Computing** |
+| :--- | :--- | :--- | :--- | :--- |
+| Development with React | Using Power BI | Tools & Lifecycle | Figma Principles | With AWS |
 # I'm Globally Certified as <img src="https://github.com/user-attachments/assets/33957f11-290c-4504-82a9-00cc5a041411" width="28"> :
 <div align="left">
 <a href="https://www.credly.com/badges/446a7263-74eb-4ce4-a166-12203149aca2/public_url" target="blank"><img src="https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/twitter_thumb_201604_image.png" width="105" alt="Google Cloud logo"  /></a>
