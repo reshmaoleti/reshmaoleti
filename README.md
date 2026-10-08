@@ -16,7 +16,7 @@
 💡 I'm Skilled at leveraging Agile project management methodologies & DevOps in addition to Cloud deployment techniques to deliver high-quality software solutions, Adept in utilizing Web Development principles for building scalable full-stack applications while optimizing innovative UX Design skills & Digital Marketing strategies for enhanced business outcomes. 
 
 📚 Currently Upskilling in : Master Python 2026 Edition, DevOps techniques, Tailwind CSS Advanced Level
-## Ask me on <a href="https://stackoverflow.com/questions/ask?tags=reshma-oleti" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="30" alt="stack overflow logo"  /></a> or <a href="https://calendly.com/reshmaoleti/30min" target="blank"><img src="https://calendlycms.com/api/media/file/10120429791383-1771966594795.jpg" width="110" alt="calendely logo"  /></a> :
+## Ask me on <a href="https://stackoverflow.com/questions/ask?tags=reshma-oleti" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="30" alt="stack overflow logo"  /></a> or <a href="https://calendly.com/reshmaoleti/30min" target="blank"><img src="https://calendlycms.com/api/media/file/10120456527767-1771966594803.jpg" width="122" alt="calendely logo"  /></a> :
 <img align="right" src="https://media.giphy.com/media/QrpVwPDGmJEIvHwKEc/giphy.gif?cid=ecf05e476f91049e3a982e7dd4b2f4c27ab45baee85f6ce4&ep=v1_user_favorites&rid=giphy.gif&ct=s" width="80" alt="Work Check list">
 
 | 🔵 **Python Full Stack** | 🔴 **DevOps** | 🟣 **UX Design** | 🟡 **Cloud Computing** | 🟢 **Digital Marketing** |
