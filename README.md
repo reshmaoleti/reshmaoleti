@@ -95,7 +95,7 @@
 <img width="1" />
 <img src="https://cdn.brandfetch.io/idJz-fGD_q/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668517499361" width="20" alt="snowflake logo" />
 <img width="1" />
-<img src="https://cdn.brandfetch.io/idW3VhiylC/w/820/h/442/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1752189694234" width="30" alt="scikit learn logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="20" alt="Redis logo" />
 <img width="1" />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt__gdZwhO3aSPCNy6b8HwnR5E5AARVCA1wQ&s" width="20" alt="microsoft excel logo" />
 <img width="1" />
