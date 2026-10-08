@@ -21,7 +21,7 @@
 
 | 🔵 **Python Full Stack** | 🔴 **DevOps** | 🟣 **UX Design** | 🟡 **Cloud Computing** | 🟢 **Digital Marketing** |
 | :--- | :--- | :--- | :--- | :--- |
-| Development with React | Tools & Lifecycle | Figma Principles | With AWS | Hubspot CRM Product Marketing |
+| Development with React | Tools & Lifecycle | Figma Principles | With AWS | Hubspot CRM Marketing |
 # My Certifications <img src="https://github.com/user-attachments/assets/33957f11-290c-4504-82a9-00cc5a041411" width="28"> :
 <div align="left">
 <a href="https://www.credly.com/badges/446a7263-74eb-4ce4-a166-12203149aca2/public_url" target="blank"><img src="https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/twitter_thumb_201604_image.png" width="105" alt="Google Cloud logo"  /></a>
