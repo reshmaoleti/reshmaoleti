@@ -50,7 +50,7 @@
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" alt="javascript logo" />
 <img width="1" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" width="20" alt="R programming logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="20" alt="Java logo" />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" alt="python logo" />
 <img width="1" />
@@ -76,12 +76,8 @@
 <img width="1" />
 <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="20" alt="JWT logo"  />
 
-🟩 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬, 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 & 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 :
+🟩 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬 & 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐯𝐞 𝐀𝐈 𝐭𝐨𝐨𝐥𝐬 :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="20" alt="jupyter logo"  />
-<img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="20" alt="numpy logo"  />
-<img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="20" alt="pandas logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" width="20" alt="postgresql logo" />
 <img width="1" />
@@ -89,15 +85,13 @@
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20" alt="mongodb logo"  />
 <img width="1" />
-<img src="https://cdn.brandfetch.io/id9sYMA_Im/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668082242510" width="20" alt="tableau logo"  />
+<img src="https://cdn.brandfetch.io/idR3duQxYl/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="20" alt="Open AI logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="20" alt="apache spark logo" />
 <img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="20" alt="matplotlib logo" />
-<img width="1" />
 <img src="https://cdn.brandfetch.io/idSUrLOWbH/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668081624532" width="20" alt="databricks logo" />
 <img width="1" />
-<img src="https://cdn.brandfetch.io/idVCtIagXj/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1749087313031" width="20" alt="powerbi logo"  />
+<img src="https://github.com/user-attachments/assets/be6e882c-c22f-40e2-9777-eed7c7211a9d" width="17" alt="Anthropic logo"  />
 <img width="1" />
 <img src="https://cdn.brandfetch.io/idJz-fGD_q/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668517499361" width="20" alt="snowflake logo" />
 <img width="1" />
