@@ -11,17 +11,17 @@
 
 🏅 Represented as : 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐋𝐞𝐚𝐫𝐧 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫 - Level 𝐁𝐞𝐭𝐚  <a href="Link Unavailable at the moment"><img src="https://cdn-icons-png.flaticon.com/512/10183/10183567.png" alt="Student Ambassador" width="15"></a>
 
-👩🏻‍💻 Proficient in : Data Science & Business Analytics, Full-stack Web Development, DevOps, UX Design & Cloud Computing. 
+👩🏻‍💻 Proficient in : Full-stack Web Development, DevOps & Cloud Automation architecture, UX Design & Digital Marketing strategies 
 
-💡 I'm Skilled at leveraging Agile project methodologies, Data Science practices through Visualization methods & DevOps in addition to Cloud deployment techniques to deliver high-quality software solutions, Adept in utilizing Web Development principles for building scalable full-stack applications while optimizing innovative Design skills & Digital Marketing strategies for enhanced business outcomes. 
+💡 I'm Skilled at leveraging Agile project management methodologies & DevOps in addition to Cloud deployment techniques to deliver high-quality software solutions, Adept in utilizing Web Development principles for building scalable full-stack applications while optimizing innovative UX Design skills & Digital Marketing strategies for enhanced business outcomes. 
 
-📚 Currently Upskilling in : Data Analytics 2026 Edition, Machine Learning techniques, Tailwind CSS Advanced Level
+📚 Currently Upskilling in : Master Python 2026 Edition, DevOps techniques, Tailwind CSS Advanced Level
 ## Ask me on <a href="https://stackoverflow.com/questions/ask?tags=reshma-oleti" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="30" alt="stack overflow logo"  /></a> or <a href="https://calendly.com/reshmaoleti/30min" target="blank"><img src="https://calendlycms.com/api/media/file/10120429791383-1771966594795.jpg" width="110" alt="calendely logo"  /></a> :
 <img align="right" src="https://media.giphy.com/media/QrpVwPDGmJEIvHwKEc/giphy.gif?cid=ecf05e476f91049e3a982e7dd4b2f4c27ab45baee85f6ce4&ep=v1_user_favorites&rid=giphy.gif&ct=s" width="80" alt="Work Check list">
 
-| 🔵 **Python Full Stack** | 🟢 **Business Analytics** | 🔴 **DevOps** | 🟣 **UX Design** | 🟡 **Cloud Computing** |
+| 🔵 **Python Full Stack** | 🔴 **DevOps** | 🟣 **UX Design** | 🟡 **Cloud Computing** | 🟢 **Digital Marketing** |
 | :--- | :--- | :--- | :--- | :--- |
-| Development with React | Using Power BI | Tools & Lifecycle | Figma Principles | With AWS |
+| Development with React | Tools & Lifecycle | Figma Principles | With AWS | Hubspot CRM Product Marketing |
 # My Certifications <img src="https://github.com/user-attachments/assets/33957f11-290c-4504-82a9-00cc5a041411" width="28"> :
 <div align="left">
 <a href="https://www.credly.com/badges/446a7263-74eb-4ce4-a166-12203149aca2/public_url" target="blank"><img src="https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/twitter_thumb_201604_image.png" width="105" alt="Google Cloud logo"  /></a>
