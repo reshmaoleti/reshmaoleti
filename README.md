@@ -41,18 +41,6 @@
 
 </td>
 </tr>
-<tr>
-<td width="50%">
-
-[![Project in progress](https://github-readme-stats-eight-sable.vercel.app/api/pin/?username=reshmaoleti&amp;repo=DevOps-Capstone-Project-&amp;theme=transparent&amp;hide_border=true)](https://github.com/reshmaoleti/DevOps-Capstone-Project-)
-
-</td>
-<td width="50%">
-
-[![Project in progress](https://github-readme-stats-eight-sable.vercel.app/api/pin/?username=reshmaoleti&amp;repo=DevOps-Capstone-Project-&amp;theme=transparent&amp;hide_border=true)](https://github.com/reshmaoleti/DevOps-Capstone-Project-)
-
-</td>
-
 </table>
 </div>
 
