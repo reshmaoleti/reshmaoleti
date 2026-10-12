@@ -30,25 +30,26 @@
 <table>
 <tr>
 <td width="50%">
-
-[![SalesCast AI](https://github-readme-stats-eight-sable.vercel.app/api/pin/?username=reshmaoleti&amp;repo=Sales-Forecasting-System&amp;theme=transparent&amp;hide_border=true)](https://github.com/reshmaoleti/Sales-Forecasting-System)
+ <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGRyNmZtdzM0b3M0ODI2ZWJpZXl3ejZuaThlN2prMmxkdnF3MWF2MSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/0uObn7iTziqIgNp4nP/giphy.gif" width="50" alt="New Project Update" target="_blank">
+ 
+[![DevOps Capstone](https://github-readme-stats-eight-sable.vercel.app/api/pin/?username=reshmaoleti&amp;repo=DevOps-Capstone-Project-&amp;theme=transparent&amp;hide_border=true)](https://github.com/reshmaoleti/DevOps-Capstone-Project-)
 
 </td>
 <td width="50%">
-
-[![Smart City Analytics](https://github-readme-stats-eight-sable.vercel.app/api/pin/?username=reshmaoleti&amp;repo=smart-city-analytics-platform&amp;theme=transparent&amp;hide_border=true)](https://github.com/reshmaoleti/smart-city-analytics-platform)
+ 
+[![Project in progress](https://github-readme-stats-eight-sable.vercel.app/api/pin/?username=reshmaoleti&amp;repo=DevOps-Capstone-Project-&amp;theme=transparent&amp;hide_border=true)](https://github.com/reshmaoleti/DevOps-Capstone-Project-)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-[![AI Job Salary Estimator](https://github-readme-stats-eight-sable.vercel.app/api/pin/?username=reshmaoleti&amp;repo=AI-Powered-Job-Salary-Estimator&amp;theme=transparent&amp;hide_border=true)](https://github.com/reshmaoleti/AI-Powered-Job-Salary-Estimator)
+[![Project in progress](https://github-readme-stats-eight-sable.vercel.app/api/pin/?username=reshmaoleti&amp;repo=DevOps-Capstone-Project-&amp;theme=transparent&amp;hide_border=true)](https://github.com/reshmaoleti/DevOps-Capstone-Project-)
 
 </td>
 <td width="50%">
 
-[![Fake News Detector](https://github-readme-stats-eight-sable.vercel.app/api/pin/?username=reshmaoleti&amp;repo=fake-news-detector&amp;theme=transparent&amp;hide_border=true)](https://github.com/reshmaoleti/fake-news-detector)
+[![Project in progress](https://github-readme-stats-eight-sable.vercel.app/api/pin/?username=reshmaoleti&amp;repo=DevOps-Capstone-Project-&amp;theme=transparent&amp;hide_border=true)](https://github.com/reshmaoleti/DevOps-Capstone-Project-)
 
 </td>
 
