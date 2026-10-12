@@ -17,7 +17,7 @@
 
 📚 Currently Upskilling in : Master Python 2026 Edition, DevOps techniques, Tailwind CSS Advanced Level
 ## Ask Me on <a href="https://stackoverflow.com/questions/ask?tags=reshma-oleti" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="30" alt="stack overflow logo"  /></a> or <a href="https://calendly.com/reshmaoleti/30min" target="blank"><img src="https://calendlycms.com/api/media/file/10120456527767-1771966594803.jpg" width="120" alt="calendely logo"  /></a> :
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3emNzZmw3NXA5YzN1d2V3NWN0MHFmdTJtNGw1NG5vaTdrMGQ0NXN0MCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/6NWhok7zPvkexoIhrY/giphy.gif" width="60" alt="Work Check list">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3emNzZmw3NXA5YzN1d2V3NWN0MHFmdTJtNGw1NG5vaTdrMGQ0NXN0MCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/6NWhok7zPvkexoIhrY/giphy.gif" width="80" alt="Work Check list">
 
 | 🔵 **Python Full Stack** | 🔴 **DevOps** | 🟣 **UX Design** | 🟡 **Cloud Computing** | 🟢 **Digital Marketing** |
 | :--- | :--- | :--- | :--- | :--- |
