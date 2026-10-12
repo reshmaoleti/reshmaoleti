@@ -30,7 +30,7 @@
 <table>
 <tr>
 <td width="50%">
- <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGRyNmZtdzM0b3M0ODI2ZWJpZXl3ejZuaThlN2prMmxkdnF3MWF2MSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/0uObn7iTziqIgNp4nP/giphy.gif" width="50" alt="New Project Update" target="_blank">
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnB4cTk2emtxbmxpa3k3ZXFocm5waWY5NWMyODNhNHU1MXZ3eDd5ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iUmaLkrlbgsJVU93N3/giphy.gif" width="40" alt="New Project Update" target="_blank"> 
  
 [![DevOps Capstone](https://github-readme-stats-eight-sable.vercel.app/api/pin/?username=reshmaoleti&amp;repo=DevOps-Capstone-Project-&amp;theme=transparent&amp;hide_border=true)](https://github.com/reshmaoleti/DevOps-Capstone-Project-)
 
