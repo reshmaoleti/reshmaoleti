@@ -15,9 +15,9 @@
 
 💡 I'm Skilled at leveraging Agile project management methodologies & DevOps in addition to Cloud deployment techniques to deliver high-quality software solutions, Adept in utilizing Web Development principles for building scalable full-stack applications while optimizing innovative UX Design skills & Digital Marketing strategies for enhanced business outcomes. 
 
-📚 Currently Upskilling in : Master Python 2026 Edition, DevOps techniques, Tailwind CSS Advanced Level
+📚 Currently Upskilling in : Master Python 2027 Edition, DevOps techniques, Tailwind CSS Advanced Level
 ## Ask Me on <a href="https://stackoverflow.com/questions/ask?tags=reshma-oleti" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="30" alt="stack overflow logo"  /></a> or <a href="https://calendly.com/reshmaoleti/30min" target="blank"><img src="https://calendlycms.com/api/media/file/10120456527767-1771966594803.jpg" width="120" alt="calendely logo"  /></a> :
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3emNzZmw3NXA5YzN1d2V3NWN0MHFmdTJtNGw1NG5vaTdrMGQ0NXN0MCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/6NWhok7zPvkexoIhrY/giphy.gif" width="80" alt="Work Check list">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3emNzZmw3NXA5YzN1d2V3NWN0MHFmdTJtNGw1NG5vaTdrMGQ0NXN0MCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/6NWhok7zPvkexoIhrY/giphy.gif" width="80" alt="Coding Time Reminder">
 
 | 🔵 **Python Full Stack** | 🔴 **DevOps** | 🟣 **UX Design** | 🟡 **Cloud Computing** | 🟢 **Digital Marketing** |
 | :--- | :--- | :--- | :--- | :--- |
@@ -26,7 +26,6 @@
 # Feautured Projects <img src="https://img.icons8.com/ios-filled/50/7950F2/project.png" width="28">  :
 
 <div align="center">
-
 <table>
 <tr>
 <td width="50%">
@@ -64,8 +63,6 @@
 # My Tech Stack <img src="https://github.com/user-attachments/assets/a43a8020-a7c3-4839-9b26-58494eb0704e" width="30"> :
 🟦 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 & 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" alt="html5 logo"  />
-<img width="1" />
-<img src="https://bit.ly/3MTv4TD" width="20" alt="css logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="20" alt="tailwind css logo"  />
 <img width="1" />
