@@ -68,8 +68,6 @@
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" alt="javascript logo" />
 <img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="20" alt="Java logo" />
-<img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" alt="python logo" />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="20" alt="SQL programming logo" />
@@ -105,8 +103,6 @@
 <img width="1" />
 <img src="https://cdn.brandfetch.io/idR3duQxYl/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="20" alt="Open AI logo"  />
 <img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="20" alt="apache spark logo" />
-<img width="1" />
 <img src="https://cdn.brandfetch.io/idSUrLOWbH/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668081624532" width="20" alt="databricks logo" />
 <img width="1" />
 <img src="https://github.com/user-attachments/assets/be6e882c-c22f-40e2-9777-eed7c7211a9d" width="17" alt="Anthropic logo"  />
@@ -126,8 +122,6 @@
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="20" alt="selenium logo"  />
 <img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="20" alt="azure devops logo" />
-<img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="20" alt="redhat logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="20" alt="prometheus logo"  />
@@ -136,7 +130,7 @@
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="20" alt="github actions logo" />
 <img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="20" alt="AWS logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="20" alt="AWS logo"  />
 <img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="20" alt="docker logo"  />
 <img width="1" />
