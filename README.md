@@ -5,11 +5,9 @@
 
 ## <p align="center"> Graduated in Computer Science & Engineering from : <a href="https://www.kluniversity.in"><img src="https://upload.wikimedia.org/wikipedia/en/7/78/KL_University_logo.svg" width="70" alt="KL University logo"/></a>
 
-📈 Recent Work Experience : 1+ as Python Developer
+📈 Work Experience : 1+ as Python Developer
 
-👩🏻‍🎓 Specialized in : 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐌𝐨𝐝𝐞𝐥𝐥𝐢𝐧𝐠 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 (2019 - 2023) ✅
-
-🏅 Represented as : 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐋𝐞𝐚𝐫𝐧 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫 - Level 𝐁𝐞𝐭𝐚  <a href="Link Unavailable at the moment"><img src="https://cdn-icons-png.flaticon.com/512/10183/10183567.png" alt="Student Ambassador" width="15"></a>
+👩🏻‍🎓 Graduation : 𝐊𝐋 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 | 𝑩𝑻𝒆𝒄𝒉 - 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 (2019 - 2023) ✅
 
 👩🏻‍💻 Proficient in : Full-stack Web Development, DevOps & Cloud Automation architecture, UX Design & Digital Marketing strategies 
 
@@ -49,7 +47,7 @@
 <a href="https://www.credly.com/badges/61916b3d-0a46-457e-b7d1-0bedf91d4a6a/public_url" target="blank"><img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/twitter_thumb_201604_image.png" width="105" alt="AWS Cloud logo"  /></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/reshmaoleti/71517F6AD3EF403F?sharingId=C3DEE9CB4FD507D1" target="_blank"><img src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="105" alt="Azure AI Fundamentals logo"  /></a>
 <a href="https://www.credly.com/badges/dfe28ced-2a30-4ba0-8f8f-85d0974f4312/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/e3c001fd-161d-433a-a7a4-049556d6112d/blob" width="105" alt="Aviatrix logo"  /></a>
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=91E17D8E5191E2FF3BB004E64360C350FB36C86A17B35287B9E33D13CE222094" target="_blank"><img src="https://images.credly.com/images/697cf123-74b0-4356-9055-9973471d26d6/03_Oracle_Cloud_Infrastructure_Foundations_Associate.png" width="105" alt="Oracle Cloud logo"  /></a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3486EF885195DF7A84A8D25CA4187448F1F19300957ED220B62AB8F7DE5A041D" target="_blank"><img src="https://images.credly.com/images/697cf123-74b0-4356-9055-9973471d26d6/03_Oracle_Cloud_Infrastructure_Foundations_Associate.png" width="105" alt="Oracle Cloud logo"  /></a>
  
 # My Github Stats <img src="https://github.com/user-attachments/assets/c583870f-097a-451e-9d86-59d3def4d679" width="30">  :
 <div> <a href="https://github.com/reshmaoleti" target="_blank"><img src="https://img.icons8.com/?size=512&id=52539&format=png" width="40" alt="GitHub" target="_blank"></a>
@@ -194,4 +192,4 @@
 <p align="center">
  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWRuMGJvZTdlY3FmNGh1bmppMHM3MXdodHhhbnEyMTRtaXM5ZG5zcCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NiSqAj7CvnvTKrfCpK/giphy.gif" alt="Image" width="250" /></p>
 
-#### <p align="center"> © Copyright 2027 • Documented by  <a href="https://peerlist.io/reshmaoleti"><img src="https://peerlist.io/favicon_512.png" width="17" alt="Peerlist" /></a><img width="10" /><a href="https://komarev.com/ghpvc/?username=reshmaoleti"><img src="https://cdn.theorg.com/5c2d6917-33e7-4c38-82da-56a9754faee1_thumb.jpg" width="17" alt="The ORG" /></a>
+#### <p align="center"> Copyright © 2027 Reshma oleti • Documented by  <a href="https://peerlist.io/reshmaoleti"><img src="https://peerlist.io/favicon_512.png" width="17" alt="Peerlist" /></a><img width="10" /><a href="https://komarev.com/ghpvc/?username=reshmaoleti"><img src="https://cdn.theorg.com/5c2d6917-33e7-4c38-82da-56a9754faee1_thumb.jpg" width="17" alt="The ORG" /></a>
